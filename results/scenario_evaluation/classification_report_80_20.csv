@@ -1,0 +1,8 @@
+,precision,recall,f1-score,support
+All-Rounder,1.0,1.0,1.0,34.0
+Daily Use,1.0,1.0,1.0,100.0
+Editing,1.0,1.0,1.0,41.0
+Gaming,1.0,1.0,1.0,28.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,203.0
+weighted avg,1.0,1.0,1.0,203.0

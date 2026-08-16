@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Hasil Evaluasi - SPEC//LAP</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+{% if result.confidence.confidence == "Tinggi" %}
+    {% set clarity_label = "Sangat Kuat" %}
+{% elif result.confidence.confidence == "Sedang" %}
+    {% set clarity_label = "Cukup Kuat" %}
+{% else %}
+    {% set clarity_label = "Perlu Review" %}
+{% endif %}
+
+<div class="page-wrapper">
+
+    <!-- NAVBAR -->
+    <nav class="navbar">
+        <a href="/" class="brand">
+            <img src="{{ url_for('static', filename='img/spec-logo.png') }}" alt="SPEC//LAP Logo" class="brand-icon-large">
+            <img src="{{ url_for('static', filename='img/spec-wordmark.png') }}" alt="SPEC//LAP" class="brand-wordmark-large">
+        </a>
+
+        <div class="nav-links">
+            <a href="/">Cek Ulang</a>
+        </div>
+    </nav>
+
+    <main class="result-container">
+
+        <!-- HERO RESULT -->
+        <section class="result-hero-premium">
+            <div class="result-hero-content">
+                <div class="hero-kicker">
+                    <span></span>
+                    SPEC//LAP RESULT
+                </div>
+
+                <h1>
+                    Laptop Ini Cocok untuk
+                    <span>{{ result.predicted_category }}</span>
+                </h1>
+
+                <p>
+                    Hasil berikut merupakan klasifikasi kecenderungan penggunaan laptop berdasarkan spesifikasi
+                    yang Anda inputkan.
+                </p>
+
+                <div class="result-badges">
+                    <div>
+                        <small>Kategori Akhir</small>
+                        <strong>{{ result.predicted_category }}</strong>
+                    </div>
+
+                    <div>
+                        <small>Kejelasan Hasil</small>
+                        <strong>{{ clarity_label }}</strong>
+                    </div>
+
+                    <div>
+                        <small>Status Analisis</small>
+                        <strong>Tervalidasi</strong>
+                    </div>
+                </div>
+            </div>
+
+            <div class="result-spec-card">
+                <div class="result-spec-header">
+                    <div>
+                        <p>Input Specification</p>
+                        <h3>Spesifikasi Laptop</h3>
+                    </div>
+
+                    <img src="{{ url_for('static', filename='img/spec-logo.png') }}" alt="SPEC//LAP Logo">
+                </div>
+
+                <div class="result-spec-list">
+                    <div>
+                        <small>CPU</small>
+                        <strong>{{ cpu_name }}</strong>
+                    </div>
+
+                    <div>
+                        <small>GPU / VGA</small>
+                        <strong>{{ gpu_name }}</strong>
+                    </div>
+
+                    <div>
+                        <small>RAM</small>
+                        <strong>{{ ram }} GB</strong>
+                    </div>
+
+                    <div>
+                        <small>Storage</small>
+                        <strong>{{ storage }} GB {{ storage_type }}</strong>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- COMPONENT VALIDATION -->
+        <section class="result-section-premium">
+            <div class="section-title">
+                <p>Input Validation</p>
+                <h2>Validasi Input Komponen</h2>
+            </div>
+
+            <p class="result-text">
+                Sistem membaca spesifikasi yang Anda inputkan untuk memastikan komponen dapat dikenali
+                sebelum skor performa dan kategori penggunaan dihitung.
+            </p>
+
+            <div class="status-result-grid">
+                <div>
+                    <small>CPU</small>
+                    <p>{{ result.component_details.cpu.message }}</p>
+                </div>
+
+                <div>
+                    <small>GPU</small>
+                    <p>{{ result.component_details.gpu.message }}</p>
+                </div>
+
+                <div>
+                    <small>RAM</small>
+                    <p>{{ result.component_details.ram.message }}</p>
+                </div>
+
+                <div>
+                    <small>Storage</small>
+                    <p>{{ result.component_details.storage.message }}</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- COMPONENT SCORE -->
+        <section class="result-section-premium">
+            <div class="section-title">
+                <p>Component Performance</p>
+                <h2>Skor Performa Spesifikasi</h2>
+            </div>
+
+            <p class="result-text">
+                Skor berikut menunjukkan kekuatan masing-masing komponen laptop berdasarkan spesifikasi yang Anda inputkan.
+                Nilai ini digunakan sistem untuk membantu menentukan kategori penggunaan laptop.
+            </p>
+
+            <div class="spec-performance-grid">
+                <div class="spec-performance-card">
+                    <div class="spec-card-top">
+                        <span>CPU</span>
+                        <small>Processor Score</small>
+                    </div>
+
+                    <div class="spec-score-number">{{ result.cpu_score }}</div>
+
+                    <div class="spec-score-track">
+                        <div class="spec-score-fill" style="width: {{ result.cpu_score }}%;"></div>
+                    </div>
+
+                    <p>Kekuatan prosesor untuk multitasking, komputasi, dan proses kerja aplikasi.</p>
+                </div>
+
+                <div class="spec-performance-card">
+                    <div class="spec-card-top">
+                        <span>GPU</span>
+                        <small>Graphics Score</small>
+                    </div>
+
+                    <div class="spec-score-number">{{ result.gpu_score }}</div>
+
+                    <div class="spec-score-track">
+                        <div class="spec-score-fill" style="width: {{ result.gpu_score }}%;"></div>
+                    </div>
+
+                    <p>Kemampuan grafis untuk gaming, visual, rendering, dan akselerasi aplikasi.</p>
+                </div>
+
+                <div class="spec-performance-card">
+                    <div class="spec-card-top">
+                        <span>RAM</span>
+                        <small>Memory Score</small>
+                    </div>
+
+                    <div class="spec-score-number">{{ result.ram_score }}</div>
+
+                    <div class="spec-score-track">
+                        <div class="spec-score-fill" style="width: {{ result.ram_score }}%;"></div>
+                    </div>
+
+                    <p>Kapasitas memori untuk membuka banyak aplikasi dan menjalankan workload lebih stabil.</p>
+                </div>
+
+                <div class="spec-performance-card">
+                    <div class="spec-card-top">
+                        <span>Storage</span>
+                        <small>Storage Score</small>
+                    </div>
+
+                    <div class="spec-score-number">{{ result.storage_score }}</div>
+
+                    <div class="spec-score-track">
+                        <div class="spec-score-fill" style="width: {{ result.storage_score }}%;"></div>
+                    </div>
+
+                    <p>Kecepatan dan kapasitas penyimpanan untuk loading sistem, aplikasi, game, dan file project.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- RESULT CLARITY + EXPLANATION -->
+        <section class="result-two-column-premium">
+            <div class="result-panel">
+                <div class="section-title">
+                    <p>Result Clarity</p>
+                    <h2>{{ clarity_label }}</h2>
+                </div>
+
+                <p class="result-text">
+                    Kejelasan hasil menunjukkan seberapa tegas spesifikasi laptop mendukung kategori akhir.
+                    Nilai ini bukan menunjukkan kelemahan sistem, tetapi membantu membaca apakah laptop memiliki karakteristik
+                    yang dekat dengan kategori lain.
+                </p>
+
+                <p class="result-text">
+                    {{ result.confidence.message }}
+                </p>
+            </div>
+
+            <div class="result-panel">
+                <div class="section-title">
+                    <p>Analysis</p>
+                    <h2>Penjelasan Hasil</h2>
+                </div>
+
+                <p class="result-text">
+                    {{ result.explanation }}
+                </p>
+            </div>
+        </section>
+
+        <!-- SUPPORTED APPS / GAMES -->
+        <section class="result-section-premium">
+            <div class="section-title">
+                <p>Supported Usage Example</p>
+                <h2>Contoh Aplikasi dan Game yang Sesuai</h2>
+            </div>
+
+            <p class="result-text">
+                Berikut contoh aplikasi atau game yang sesuai dengan kategori
+                <strong>{{ result.predicted_category }}</strong>. Daftar ini bersifat referensi umum
+                berdasarkan kecenderungan performa laptop, bukan jaminan seluruh fitur berjalan pada pengaturan tertinggi.
+            </p>
+
+            <div class="app-support-grid">
+                {% for app in result.supported_apps %}
+                    <div class="app-support-card">
+                        <div class="app-logo-box">
+                            <img
+                                src="{{ url_for('static', filename='img/apps/' ~ app.logo_file) }}"
+                                alt="{{ app.name }} logo"
+                                onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+                            >
+                            <div class="app-initial">{{ app.initial }}</div>
+                        </div>
+
+                        <div class="app-info">
+                            <span>{{ app.type }}</span>
+                            <h3>{{ app.name }}</h3>
+                            <p>{{ app.note }}</p>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </section>
+
+        <!-- MARKETPLACE RECOMMENDATIONS -->
+        <section class="result-section-premium marketplace-section">
+            <div class="section-title">
+                <p>Marketplace Recommendation</p>
+                <h2>Rekomendasi Laptop {{ result.predicted_category }}</h2>
+            </div>
+
+            <p class="result-text">
+                Berdasarkan hasil evaluasi SPEC//LAP, laptop Anda masuk kategori
+                <strong>{{ result.predicted_category }}</strong>. Berikut referensi laptop dari katalog marketplace
+                yang memiliki kategori penggunaan sejenis.
+            </p>
+
+            <div class="marketplace-price-warning">
+                <strong>Catatan harga:</strong>
+                Harga pada rekomendasi ini bersifat estimasi berdasarkan data marketplace/official store saat terakhir dicek.
+                Harga dapat berubah sewaktu-waktu karena promo, stok, lokasi toko, varian produk, atau kebijakan masing-masing marketplace.
+                Selalu cek kembali harga final melalui tombol <strong>Lihat Produk</strong>.
+            </div>
+
+            {% if result.marketplace_recommendations %}
+                <div class="marketplace-grid">
+                    {% for laptop in result.marketplace_recommendations %}
+                        <article class="marketplace-card">
+                            <div class="marketplace-image-wrap">
+                                {% if laptop.local_image_path %}
+                                    <img
+                                        src="{{ url_for('static', filename=laptop.local_image_path) }}"
+                                        alt="{{ laptop.name }}"
+                                        class="marketplace-image"
+                                    >
+                                {% elif laptop.image_url %}
+                                    <img
+                                        src="{{ laptop.image_url }}"
+                                        alt="{{ laptop.name }}"
+                                        class="marketplace-image"
+                                    >
+                                {% else %}
+                                    <div class="marketplace-image-placeholder">
+                                        <span>{{ laptop.brand }}</span>
+                                    </div>
+                                {% endif %}
+
+                                <div class="marketplace-badge">
+                                    {{ laptop.price_range }}
+                                </div>
+                            </div>
+
+                            <div class="marketplace-content">
+                                <div class="marketplace-meta">
+                                    <span>{{ laptop.category }}</span>
+                                    <span>{{ laptop.marketplace }}</span>
+                                </div>
+
+                                <h3>{{ laptop.name }}</h3>
+
+                                <div class="marketplace-specs">
+                                    <div>
+                                        <small>CPU</small>
+                                        <strong>{{ laptop.cpu }}</strong>
+                                    </div>
+
+                                    <div>
+                                        <small>GPU</small>
+                                        <strong>{{ laptop.gpu }}</strong>
+                                    </div>
+
+                                    <div>
+                                        <small>RAM</small>
+                                        <strong>{{ laptop.ram }}</strong>
+                                    </div>
+
+                                    <div>
+                                        <small>Storage</small>
+                                        <strong>{{ laptop.storage }}</strong>
+                                    </div>
+                                </div>
+
+                                <p class="marketplace-note">
+                                    {{ laptop.notes }}
+                                </p>
+
+                                <div class="marketplace-footer marketplace-footer-3d">
+                                    <div>
+                                        <small>Estimasi Harga</small>
+                                        <strong>{{ laptop.price_formatted }}</strong>
+                                    </div>
+
+                                    <div class="marketplace-action-group">
+                                        <button
+                                            type="button"
+                                            class="marketplace-btn model3d-btn js-open-3d"
+                                            data-laptop-name="{{ laptop.name|e }}"
+                                            hidden>
+                                            Lihat 3D Preview
+                                        </button>
+
+                                        {% if laptop.product_url %}
+                                            <a href="{{ laptop.product_url }}" target="_blank" rel="noopener noreferrer" class="marketplace-btn">
+                                                Lihat Produk
+                                            </a>
+                                        {% else %}
+                                            <span class="marketplace-btn disabled">
+                                                Link Tidak Tersedia
+                                            </span>
+                                        {% endif %}
+                                    </div>
+                                </div>
+
+                                {% if laptop.last_checked %}
+                                    <p class="marketplace-date">
+                                        Terakhir dicek: {{ laptop.last_checked }}
+                                    </p>
+                                {% endif %}
+                            </div>
+                        </article>
+                    {% endfor %}
+                </div>
+            {% else %}
+                <div class="marketplace-empty">
+                    <h3>Rekomendasi marketplace belum tersedia.</h3>
+                    <p>
+                        Pastikan file <strong>processed/marketplace_catalog.csv</strong> sudah ada
+                        dan kategori laptop sesuai dengan hasil evaluasi.
+                    </p>
+                </div>
+            {% endif %}
+        </section>
+
+        <div class="back-action">
+            <a href="/" class="btn-primary">Cek Laptop Lain</a>
+        </div>
+
+    </main>
+
+    <footer>
+        <p>© 2026 SPEC//LAP — Decode Your Laptop Performance</p>
+    </footer>
+
+</div>
+
+<!-- 3D MODEL MODAL -->
+<div class="model3d-modal" id="model3d-modal" aria-hidden="true">
+    <div class="model3d-backdrop" data-close-3d></div>
+
+    <div class="model3d-dialog" role="dialog" aria-modal="true" aria-labelledby="model3d-title">
+        <button type="button" class="model3d-close" data-close-3d aria-label="Tutup preview 3D">×</button>
+
+        <div class="model3d-header">
+            <div>
+                <p>Interactive 3D Preview</p>
+                <h3 id="model3d-title">Preview 3D Laptop</h3>
+            </div>
+
+            <span class="model3d-badge" id="model3d-badge">Model Publik</span>
+        </div>
+
+        <div class="model3d-frame-wrap">
+            <iframe
+                id="model3d-frame"
+                class="model3d-frame"
+                title="Preview 3D Laptop"
+                src=""
+                allow="autoplay; fullscreen; xr-spatial-tracking; gyroscope; accelerometer"
+                allowfullscreen
+                mozallowfullscreen="true"
+                webkitallowfullscreen="true">
+            </iframe>
+        </div>
+
+        <p class="model3d-note" id="model3d-note">
+            Model 3D ditampilkan sebagai preview visual tambahan. Jika model bukan SKU yang sama persis,
+            gunakan gambar produk dan link marketplace sebagai acuan utama.
+        </p>
+    </div>
+</div>
+
+<script>
+    const MODEL_3D_CATALOG = [
+        {
+            keys: [
+                "Acer Nitro V15 i5 RTX4050",
+                "Acer Nitro V15 ANV15-51-517H",
+                "Acer Nitro V15 Ryzen 7 RTX4050",
+            ],
+            title: "Acer Nitro V15",
+            badge: "Seri mirip kuat",
+            embedUrl: "https://sketchfab.com/models/fb9b893d17c643f3b986085ff7970094/embed?autostart=1&ui_theme=dark",
+            note: "Model 3D publik Nitro V 15 ANV15-51-59RM. Dipakai sebagai preview seri/chassis Nitro V15; detail SKU, port, warna, dan dimensi bisa berbeda dari produk rekomendasi."
+        },
+        {
+            keys: [
+                "HP Victus 15 FA2716TX",
+            ],
+            title: "HP Victus 15",
+            badge: "Seri mirip kuat",
+            embedUrl: "https://sketchfab.com/models/a637e4293ae04908b9fd0ac7460e93ba/embed?autostart=1&ui_theme=dark",
+            note: "Model 3D publik HP Victus 15. Dipakai sebagai preview visual seri Victus 15; detail SKU, port, warna, dan dimensi bisa berbeda dari produk rekomendasi."
+        },
+        {
+            keys: [
+                "ASUS TUF Gaming A15 FA507NV-R746K6M-O",
+                "ASUS TUF Gaming A16 FA607NUG",
+            ],
+            title: "ASUS TUF Gaming Series",
+            badge: "Preview family TUF",
+            embedUrl: "https://sketchfab.com/models/3e473db240b441bbb75f2874657b3707/embed?autostart=1&ui_theme=dark",
+            note: "Model 3D publik ASUS TUF Gaming A15. Untuk TUF A16 dipakai sebagai preview family TUF, bukan representasi exact; detail port, ukuran, warna, dan chassis bisa berbeda."
+        },
+        {
+            keys: [
+                "ASUS ROG Strix G16 G614PM",
+            ],
+            title: "ASUS ROG Strix G16",
+            badge: "Seri mirip",
+            embedUrl: "https://sketchfab.com/models/4dc420276dbc43679596bc668ced64ef/embed?autostart=1&ui_theme=dark",
+            note: "Model 3D publik ROG Strix G16 berbasis draft. Dipakai sebagai preview visual tambahan; detail SKU, port, warna, dan dimensi bisa berbeda dari produk rekomendasi."
+        },
+        {
+            keys: [
+                "ASUS ROG Zephyrus G14 GA403GM",
+            ],
+            title: "ASUS ROG Zephyrus G14 2024",
+            badge: "Seri mirip kuat",
+            embedUrl: "https://sketchfab.com/models/ba6335713503477f8ab8187f53decf0f/embed?autostart=1&ui_theme=dark",
+            note: "Model 3D publik ASUS ROG Zephyrus G14 2024. Dipakai sebagai preview seri/chassis yang relevan; detail SKU, port, warna, dan dimensi bisa berbeda."
+        },
+        {
+            keys: [
+                "Acer Aspire Lite 15 AL15-42P-R50P",
+                "Acer Aspire Lite 15 AI AL15-61P-R572",
+            ],
+            title: "Acer Aspire Lite",
+            badge: "Seri mirip kuat",
+            embedUrl: "https://sketchfab.com/models/ed7fb55b1a0e46abbead1e0d8a074cc0/embed?autostart=1&ui_theme=dark",
+            note: "Model 3D publik Acer Aspire Lite. Dipakai sebagai preview seri Aspire Lite; detail SKU, port, warna, dan dimensi bisa berbeda dari produk rekomendasi."
+        },
+        {
+            keys: [
+                "Lenovo IdeaPad 1 14AMN7 82VF00A6ID",
+                "Lenovo IdeaPad Slim 3 14ABR8",
+                "Lenovo IdeaPad Slim 3 14IRH8",
+            ],
+            title: "Lenovo IdeaPad 3 14ADA05",
+            badge: "Preview family IdeaPad",
+            embedUrl: "https://sketchfab.com/models/09f40895928c4529a463d9bb4e5b3e55/embed?autostart=1&ui_theme=dark",
+            note: "Model 3D publik Lenovo IdeaPad 3 14ADA05. Dipakai sebagai preview family IdeaPad 14 inci; bukan model exact untuk IdeaPad 1/Slim 3, sehingga detail chassis bisa berbeda."
+        },
+        {
+            keys: [
+                "ASUS Vivobook Go 14 E1404GA-FHD353",
+            ],
+            title: "ASUS Vivobook Pro 14 OLED",
+            badge: "Preview family Vivobook",
+            embedUrl: "https://sketchfab.com/models/a2d51923df4544b99dceb4d5d24486a8/embed?autostart=1&ui_theme=dark",
+            note: "Model 3D publik ASUS Vivobook Pro 14 OLED. Dipakai sebagai preview family Vivobook 14 inci; bukan model exact Vivobook Go 14, sehingga detail desain bisa berbeda."
+        },
+        {
+            keys: [
+                "HP 14-ep1155TU",
+            ],
+            title: "HP 14s-dq2622TU",
+            badge: "Preview HP 14 inch",
+            embedUrl: "https://sketchfab.com/models/4f196e0b43a042acb291936a4035e4b9/embed?autostart=1&ui_theme=dark",
+            note: "Model 3D publik HP 14s-dq2622TU. Dipakai sebagai preview laptop HP 14 inci; bukan model exact HP 14-ep1155TU, sehingga detail port, warna, dan dimensi bisa berbeda."
+        },
+        {
+            keys: [
+                "Acer Aspire 7 A715-42G-R75V",
+                "Acer Aspire 7 Pro A715-59G-516G",
+            ],
+            title: "Acer Aspire 5",
+            badge: "Preview family Aspire",
+            embedUrl: "https://sketchfab.com/models/6f5a84bcd1034450b11cf4c135d695cd/embed?autostart=1&ui_theme=dark",
+            note: "Model 3D publik Acer Aspire 5. Dipakai sebagai preview family Aspire untuk Aspire 7/Aspire 7 Pro; bukan model exact, sehingga detail chassis bisa berbeda."
+        },
+        {
+            keys: [
+                "ASUS ExpertBook P1 PM1403CDA-S65150W",
+                "ASUS ProArt P16 H7606WM-OLEDS9311TM",
+                "ASUS ProArt P16 OLED H7606",
+            ],
+            title: "ASUS Laptop Preview",
+            badge: "Preview umum ASUS",
+            embedUrl: "https://sketchfab.com/models/78629c27a9184971af204822efbc3fe3/embed?autostart=1&ui_theme=dark",
+            note: "Model 3D publik ASUS Laptop. Dipakai sebagai preview umum untuk ExpertBook/ProArt karena model exact belum tersedia; detail desain, port, warna, dan dimensi bisa berbeda."
+        },
+        {
+            keys: [
+                "Acer Swift Go 14 SFG14-73T-5184",
+            ],
+            title: "Acer Swift 3",
+            badge: "Preview family Swift",
+            embedUrl: "https://sketchfab.com/models/83bd413aa32d47cc9d908eaf8ec8894b/embed?autostart=1&ui_theme=dark",
+            note: "Model 3D publik Acer Swift 3. Dipakai sebagai preview family Swift untuk Swift Go 14; bukan model exact, sehingga detail chassis bisa berbeda."
+        },
+        {
+            keys: [
+                "MSI Prestige 14 AI Studio C1UDXG-084ID",
+                "MSI Venture Pro 15 AI A1UDXG-023ID",
+            ],
+            title: "MSI Gaming/Creator Laptop",
+            badge: "Preview creator MSI",
+            embedUrl: "https://sketchfab.com/models/0572e600acb0426e80d309b70e3be281/embed?autostart=1&ui_theme=dark",
+            note: "Model 3D publik MSI Gaming/Creator Laptop. Dipakai sebagai preview umum untuk laptop MSI creator/performance; bukan model exact Prestige/Venture, sehingga detail desain bisa berbeda."
+        },
+        {
+            keys: [
+                "Lenovo Legion Pro 5i 16IAX10",
+            ],
+            title: "Lenovo Legion 5",
+            badge: "Preview family Legion",
+            embedUrl: "https://sketchfab.com/models/3d7c2c3eb88c47ef9b09ed74e2b1ef5f/embed?autostart=1&ui_theme=dark",
+            note: "Model 3D publik Lenovo Legion 5. Dipakai sebagai preview family Legion untuk Legion Pro 5i; bukan model exact, sehingga detail port, warna, ukuran, dan chassis bisa berbeda."
+        }
+    ];
+
+    function normalizeLaptopName(value) {
+        return String(value || "")
+            .toLowerCase()
+            .replace(/[^a-z0-9]+/g, " ")
+            .replace(/\s+/g, " ")
+            .trim();
+    }
+
+    function findModel3D(laptopName) {
+        const normalizedLaptopName = normalizeLaptopName(laptopName);
+
+        return MODEL_3D_CATALOG.find((item) => {
+            return item.keys.some((key) => {
+                const normalizedKey = normalizeLaptopName(key);
+                return normalizedLaptopName === normalizedKey;
+            });
+        });
+    }
+
+    function openModel3D(modelData) {
+        const modal = document.getElementById("model3d-modal");
+        const iframe = document.getElementById("model3d-frame");
+        const title = document.getElementById("model3d-title");
+        const badge = document.getElementById("model3d-badge");
+        const note = document.getElementById("model3d-note");
+
+        if (!modal || !iframe || !modelData) return;
+
+        title.textContent = modelData.title;
+        badge.textContent = modelData.badge;
+        note.textContent = modelData.note;
+        iframe.src = modelData.embedUrl;
+
+        modal.classList.add("active");
+        modal.setAttribute("aria-hidden", "false");
+        document.body.classList.add("modal-open");
+    }
+
+    function closeModel3D() {
+        const modal = document.getElementById("model3d-modal");
+        const iframe = document.getElementById("model3d-frame");
+
+        if (!modal || !iframe) return;
+
+        modal.classList.remove("active");
+        modal.setAttribute("aria-hidden", "true");
+        iframe.src = "";
+        document.body.classList.remove("modal-open");
+    }
+
+    function setupModel3DButtons() {
+        const buttons = document.querySelectorAll(".js-open-3d");
+
+        buttons.forEach((button) => {
+            const laptopName = button.dataset.laptopName;
+            const modelData = findModel3D(laptopName);
+
+            if (!modelData) {
+                button.remove();
+                return;
+            }
+
+            button.hidden = false;
+            button.addEventListener("click", () => openModel3D(modelData));
+        });
+
+        document.querySelectorAll("[data-close-3d]").forEach((element) => {
+            element.addEventListener("click", closeModel3D);
+        });
+
+        document.addEventListener("keydown", (event) => {
+            if (event.key === "Escape") {
+                closeModel3D();
+            }
+        });
+    }
+
+    setupModel3DButtons();
+</script>
+
+<script>
+    const resultRevealItems = document.querySelectorAll(
+        ".result-section-premium, .result-panel, .result-spec-card, .spec-performance-card, .result-badges div, .app-support-card, .marketplace-card"
+    );
+
+    resultRevealItems.forEach((item, index) => {
+        item.classList.add("reveal");
+
+        if (index % 3 === 1) {
+            item.classList.add("reveal-delay-1");
+        } else if (index % 3 === 2) {
+            item.classList.add("reveal-delay-2");
+        }
+    });
+
+    const resultRevealObserver = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add("visible");
+                resultRevealObserver.unobserve(entry.target);
+            }
+        });
+    }, {
+        threshold: 0.12
+    });
+
+    resultRevealItems.forEach((item) => {
+        resultRevealObserver.observe(item);
+    });
+</script>
+
+</body>
+</html>

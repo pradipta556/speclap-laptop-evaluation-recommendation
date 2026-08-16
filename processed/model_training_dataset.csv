@@ -1,0 +1,1015 @@
+processor_name,graphics,ram(GB),storage_size,storage_type,cpu_score,gpu_score,ram_score,storage_score,gaming_score,editing_score,daily_score,all_rounder_score,performance_score,usage_category
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+AMD Ryzen 5 5600H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,72,58,55,80,64.35,65.45,69.15,65.85,65.6,Gaming
+11th Gen Core i3,Intel Integrated UHD,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+Ryzen 5-5600H,AMD Radeon Vega 7,8,512,SSD,72,31,55,80,52.2,58.7,66.45,59.1,57.5,Daily Use
+11th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,256,SSD,68,58,55,65,61.1,61.8,62.7,61.65,61.95,Gaming
+12th Gen Core i9,Missing,16,512,SSD,95,35,80,80,63.5,74.0,80.0,73.25,71.75,Editing
+AMD Athlon Silver 3050U,AMD Radeon Graphics,8,512,SSD,22,30,55,80,39.25,40.95,51.35,43.85,39.7,Daily Use
+12th Gen Core i3,Intel UHD Graphics,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+Ryzen 7 5800H,4 GB NVIDIA GeForce GTX 1650,16,512,SSD,78,58,80,80,69.6,73.8,77.2,73.9,72.7,Editing
+Apple M1,Apple M1 Integrated Graphics,8,256,SSD,75,58,55,65,62.85,64.25,64.8,63.75,64.4,Gaming
+12th Gen Core i3,Intel UHD Graphics,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+12th Gen Core i5,Intel Iris Xe,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+12th Gen Core i5,Intel UHD Graphics,8,512,SSD,71,25,55,80,49.25,56.85,65.55,57.3,55.35,Daily Use
+AMD Ryzen 5 4600H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,65,58,55,80,62.6,63.0,67.05,63.75,63.15,Gaming
+AMD Ryzen 3 3250U,AMD Radeon,8,256,SSD,32,30,55,65,39.5,42.2,49.1,43.85,40.95,Daily Use
+AMD Ryzen 5 5600H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,72,58,55,80,64.35,65.45,69.15,65.85,65.6,Gaming
+11th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+Ryzen 5-5600H,AMD Radeon Vega 7 Graphics,16,512,SSD,72,31,80,80,55.95,64.95,72.7,65.35,62.5,Daily Use
+Apple M2,8-Core GPU,8,256,SSD,85,35,55,65,55.0,62.0,65.5,61.0,61.0,Daily Use
+10th Gen Core i3,Intel UHD Graphics,8,1000,HDD,48,25,55,70,42.0,47.3,55.15,48.4,45.8,Daily Use
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+AMD Ryzen 5 5500U,AMD Radeon Graphics,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+AMD Ryzen 5 5500U,AMD Radeon Graphics,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+Athlon Gold 3150U,AMD Radeon RADEON,4,256,SSD,26,30,30,65,34.25,33.85,41.05,35.8,33.85,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+12th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,71,58,55,80,64.1,65.1,68.85,65.55,65.25,Gaming
+11th Gen Core i3,Intel UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+AMD Ryzen 5 4600H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,65,58,55,80,62.6,63.0,67.05,63.75,63.15,Gaming
+12th Gen Core i5,Intel Iris Xe,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+AMD Ryzen 3 5300U,AMD Radeon Graphics,8,512,SSD,45,30,55,80,45.0,49.0,58.25,50.75,47.75,Daily Use
+12th Gen Core i5,Intel Iris Xe Graphics,8,256,SSD,71,42,55,65,54.65,58.85,62.0,58.55,58.2,Daily Use
+AMD Ryzen 3  3250U,AMD Radeon Graphics,8,1000,HDD,32,30,55,70,40.25,42.95,50.85,44.85,41.7,Daily Use
+AMD Ryzen 3 3250U,AMD Radeon Radeon Graphics,4,256,SSD,32,30,30,65,35.75,35.95,42.85,37.6,35.95,Daily Use
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,71,70,55,80,69.5,68.1,70.05,68.55,68.85,Gaming
+12th Gen Core i7,Intel Integrated UHD,16,512,SSD,81,25,80,80,55.5,66.6,74.8,66.55,63.85,Daily Use
+Ryzen 5 5600H,4 GB AMD Radeon RX 5500M,8,512,SSD,72,52,55,80,61.65,63.95,68.55,64.35,63.8,Daily Use
+AMD Ryzen 5 5500U,AMD Radeon,16,512,SSD,62,30,80,80,53.0,61.2,69.6,62.1,58.7,Daily Use
+12th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,71,58,55,80,64.1,65.1,68.85,65.55,65.25,Gaming
+AMD Ryzen 3 3250U,AMD Radeon Graphics,8,512,SSD,32,30,55,80,41.75,44.45,54.35,46.85,43.2,Daily Use
+12th Gen Core i5,Intel Iris XE Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+Celeron N4020,Intel UHD Graphics 600,4,128,HDD,22,25,30,25,25.0,25.2,25.35,25.35,24.95,Daily Use
+10th Gen Core i3,Intel Integrated UHD,8,256,SSD,48,25,55,65,41.25,46.55,53.4,47.4,45.05,Daily Use
+11th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+12th Gen Core i7,Intel Integrated Iris Xe,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+11th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,78,42,80,80,62.4,69.8,75.6,69.9,67.9,Editing
+AMD Ryzen 5 5600H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,72,58,55,80,64.35,65.45,69.15,65.85,65.6,Gaming
+Ryzen 5 5600H,AMD Radeon Graphics,8,512,SSD,72,30,55,80,51.75,58.45,66.35,58.85,57.2,Daily Use
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+AMD Ryzen 5-5600H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,72,58,55,80,64.35,65.45,69.15,65.85,65.6,Gaming
+Ryzen 7-4800H,4 GB NVIDIA GeForce GTX 1650 Max Q,16,512,SSD,72,55,80,80,66.75,70.95,75.1,71.35,69.7,Editing
+AMD Ryzen 5 4600H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,65,58,55,80,62.6,63.0,67.05,63.75,63.15,Gaming
+AMD Ryzen 5 5600H,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,72,70,55,80,69.75,68.45,70.35,68.85,69.2,Gaming
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 2050,16,512,SSD,71,60,80,80,68.75,71.85,75.3,72.3,70.85,Editing
+11th Gen Core i3,Intel UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+12th Gen Core i5,Intel Integrated Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i3,Intel Iris Xe,8,512,SSD,54,42,55,80,52.65,55.15,62.15,56.45,54.5,Daily Use
+12th Gen Core i5,‎Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+11th Gen Core i7,4 GB NVIDIA GeForce GTX 1650 MAX Q,8,512,SSD,78,55,55,80,64.5,66.8,70.65,66.9,66.8,Daily Use
+12th Gen Core i7,Intel Iris Xe Graphics,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+11th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+11th Gen Core i5,Intel UHD Graphics,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+Ryzen 5 7520U,AMD Radeon Graphiics,8,512,SSD,52,30,55,80,46.75,51.45,60.35,52.85,50.2,Daily Use
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+12th Gen Core i5,Intel Integrated UHD,8,512,SSD,71,25,55,80,49.25,56.85,65.55,57.3,55.35,Daily Use
+13th Gen Core i7,‎Intel Iris Xe Graphics,16,512,SSD,83,42,80,80,63.65,71.55,77.1,71.4,69.65,Editing
+13th Gen Core i7,‎Intel Iris Xe Graphics,16,512,SSD,83,42,80,80,63.65,71.55,77.1,71.4,69.65,Editing
+13th Gen Core i7,‎Intel Iris Xe Graphics,16,1000,SSD,83,42,80,95,65.9,73.8,82.35,74.4,71.9,Editing
+13th Gen Core i5,‎Intel Iris Xe Graphics,16,512,SSD,73,42,80,80,61.15,68.05,74.1,68.4,66.15,Editing
+13th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,73,42,80,80,61.15,68.05,74.1,68.4,66.15,Editing
+AMD Ryzen 5 5500U,AMD Radeon Graphics,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+13th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,73,42,80,80,61.15,68.05,74.1,68.4,66.15,Editing
+13th Gen Core i7,Intel Iris Xe Graphics,16,1000,SSD,83,42,80,95,65.9,73.8,82.35,74.4,71.9,Editing
+13th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,83,42,80,80,63.65,71.55,77.1,71.4,69.65,Editing
+13th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,73,42,80,80,61.15,68.05,74.1,68.4,66.15,Editing
+13th Gen Core i7,‎Intel Iris Xe Graphics,16,1000,SSD,83,42,80,95,65.9,73.8,82.35,74.4,71.9,Editing
+13th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,83,42,80,80,63.65,71.55,77.1,71.4,69.65,Editing
+13th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,83,42,80,80,63.65,71.55,77.1,71.4,69.65,Editing
+13th Gen Core i7,Intel Iris Xe Graphics,16,1000,SSD,83,42,80,95,65.9,73.8,82.35,74.4,71.9,Editing
+11th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,68,58,55,80,63.35,64.05,67.95,64.65,64.2,Gaming
+AMD Ryzen 3 3250U,AMD Radeon Graphics,8,256,SSD,32,30,55,65,39.5,42.2,49.1,43.85,40.95,Daily Use
+AMD Ryzen 5-5625U,AMD Radeon Radeon Graphics,8,512,SSD,66,30,55,80,50.25,56.35,64.55,57.05,55.1,Daily Use
+12th Gen Core i3,Intel Iris Xe Graphics,8,512,SSD,54,42,55,80,52.65,55.15,62.15,56.45,54.5,Daily Use
+AMD Ryzen 5-5600H,4 GB NVIDIA GeForce GTX 1650,8,256,SSD,72,58,55,65,62.1,63.2,63.9,62.85,63.35,Gaming
+AMD Ryzen 5 5500U,AMD Radeon,16,512,SSD,62,30,80,80,53.0,61.2,69.6,62.1,58.7,Daily Use
+Ryzen 5 5500U,AMD Radeon Graphics,16,512,SSD,62,30,80,80,53.0,61.2,69.6,62.1,58.7,Daily Use
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,71,70,55,80,69.5,68.1,70.05,68.55,68.85,Gaming
+AMD Ryzen 7 6800H,4 GB NVIDIA GeForce RTX 3050 Ti,16,512,SSD,82,73,80,80,77.35,78.95,79.9,78.85,78.6,All-Rounder
+Ryzen 5-5600H,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,72,70,55,80,69.75,68.45,70.35,68.85,69.2,Gaming
+10th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,65,58,55,80,62.6,63.0,67.05,63.75,63.15,Gaming
+12th Gen Core i5,Intel Iris Xᵉ Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+11th Gen Core i3,Intel UHD Graphics,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+Ryzen 5 5500U,AMD Radeon AMD,8,256,SSD,62,30,55,65,47.0,52.7,58.1,52.85,51.45,Daily Use
+Ryzen 5 5500U,AMD Radeon AMD,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+10th Gen Core i5,Intel Integrated UHD,8,256,SSD,65,25,55,65,45.5,52.5,58.5,52.5,51.0,Daily Use
+AMD Ryzen 3 3250U,AMD Radeon Graphics,8,512,SSD,32,30,55,80,41.75,44.45,54.35,46.85,43.2,Daily Use
+12th Gen Core i5,Intel iris Xe Integrated,8,256,SSD,71,42,55,65,54.65,58.85,62.0,58.55,58.2,Daily Use
+M2 Max 12-core CPU,38-core GPU,32,1000,SSD,94,35,95,95,67.75,79.65,88.7,79.7,76.65,Editing
+12th Gen Core i7,Intel Integrated UHD,16,512,SSD,81,25,80,80,55.5,66.6,74.8,66.55,63.85,Daily Use
+11th Gen Core i5,2 GB NVIDIA GeForce MX330,8,512,SSD,68,38,55,80,54.35,59.05,65.95,59.65,58.2,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,68,58,55,80,63.35,64.05,67.95,64.65,64.2,Gaming
+11th Gen Core i7,Intel Integrated UHD,16,512,SSD,78,25,80,80,54.75,65.55,73.9,65.65,62.8,Daily Use
+12th Gen Core i3,Intel Integrated Iris Xe Graphics,8,512,SSD,54,42,55,80,52.65,55.15,62.15,56.45,54.5,Daily Use
+AMD Ryzen 3 5300U,AMD Radeon Graphics,8,512,SSD,45,30,55,80,45.0,49.0,58.25,50.75,47.75,Daily Use
+11th Gen Core i9,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,92,70,80,80,78.5,81.7,82.6,81.1,81.2,All-Rounder
+12th Gen Core i7,Intel Integrated Iris Xe,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+12th Gen Core i5,2 GB NVIDIA GeForce MX550,16,512,SSD,71,46,80,80,62.45,68.35,73.9,68.8,66.65,Editing
+12th Gen Core i5,Intel Iris Xe Graphics,8,256,SSD,71,42,55,65,54.65,58.85,62.0,58.55,58.2,Daily Use
+AMD Ryzen 3 5300U,AMD Radeon Graphics,8,512,SSD,45,30,55,80,45.0,49.0,58.25,50.75,47.75,Daily Use
+AMD Ryzen 7 6800H,8 GB AMD Radeon RX 6650M,16,512,SSD,82,72,80,80,76.9,78.7,79.8,78.6,78.3,All-Rounder
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+Pentium Silver N6000,Intel UHD Graphics,8,256,SSD,30,25,55,65,36.75,40.25,48.0,42.0,38.75,Daily Use
+10th Gen Core i5,Intel UHD,8,512,SSD,65,25,55,80,47.75,54.75,63.75,55.5,53.25,Daily Use
+Celeron N4020,Intel Integrated UHD 600,4,32,HDD,22,25,30,25,25.0,25.2,25.35,25.35,24.95,Daily Use
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,71,70,80,80,73.25,74.35,76.3,74.8,73.85,Gaming
+12th Gen Core i9,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,95,78,80,95,85.1,87.0,89.55,87.0,86.9,All-Rounder
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+10th Gen Core i3,Intel Integrated UHD,8,512,SSD,48,25,55,80,43.5,48.8,58.65,50.4,47.3,Daily Use
+Ryzen 5 5600H,4 GB AMD Radeon RX 5500M,8,512,SSD,72,52,55,80,61.65,63.95,68.55,64.35,63.8,Daily Use
+ Celeron N5100,Intel Integrated UHD,4,128,SSD,20,25,30,50,28.25,28.25,33.5,29.75,28.0,Daily Use
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050,16,1000,SSD,81,70,80,95,78.0,80.1,84.55,80.8,79.6,All-Rounder
+11th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+12th Gen Core i3,Intel Iris Xe,8,512,SSD,54,42,55,80,52.65,55.15,62.15,56.45,54.5,Daily Use
+11th Gen Core i3,Intel Integrated UHD Graphics,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+2022) FX507ZE-HN038W Gaming Laptop ,4 GB NVIDIA GeForce RTX 3050-Ti,16,512,SSD,35,73,80,80,65.6,62.5,65.8,64.75,62.15,Gaming
+AMD Ryzen 7 4800H,4 GB NVIDIA GeForce RTX 3050 Ti,16,1000,SSD,72,73,80,95,77.1,77.7,82.15,78.85,77.35,Gaming
+ Celeron N5100,Intel Integrated UHD,8,256,SSD,20,25,55,65,34.25,36.75,45.0,39.0,35.25,Daily Use
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,71,70,80,80,73.25,74.35,76.3,74.8,73.85,Gaming
+11th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,16,512,SSD,68,58,80,80,67.1,70.3,74.2,70.9,69.2,Editing
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 2050,8,512,SSD,71,60,55,80,65.0,65.6,69.05,66.05,65.85,Gaming
+AMD Ryzen 5 3500U,AMD Radeon Graphics,8,512,SSD,45,30,55,80,45.0,49.0,58.25,50.75,47.75,Daily Use
+12th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,71,58,55,80,64.1,65.1,68.85,65.55,65.25,Gaming
+Ryzen 5 5600H,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,72,70,80,80,73.5,74.7,76.6,75.1,74.2,Gaming
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,71,70,55,80,69.5,68.1,70.05,68.55,68.85,Gaming
+Ryzen 5 5600H,AMD Radeon Graphics,16,512,SSD,72,30,80,80,55.5,64.7,72.6,65.1,62.2,Daily Use
+12th Gen Core i7,Intel Integrated Iris Xe,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+Apple M2,10 Core GPU,8,512,SSD,85,35,55,80,57.25,64.25,70.75,64.0,63.25,Daily Use
+12th Gen Core i7,Intel Iris Xe Graphics,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+12th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,68,70,80,80,72.5,73.3,75.4,73.9,72.8,Gaming
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050 Ti,16,512,SSD,81,73,80,80,77.1,78.6,79.6,78.55,78.25,All-Rounder
+11th Gen Core i5,Intel Iris Xe,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+Ryzen 5 5600H,4 GB NVIDIA GeForce RTX 3050Ti,8,512,SSD,72,70,55,80,69.75,68.45,70.35,68.85,69.2,Gaming
+Athlon Silver 3050U,AMD Radeon Graphics,8,256,SSD,22,30,55,65,37.0,38.7,46.1,40.85,37.45,Daily Use
+Celeron N4020,Intel Integrated UHD Graphics,4,128,SSD,22,25,30,50,28.75,28.95,34.1,30.35,28.7,Daily Use
+Snapdragon 7c,Qualcomm Adreno,4,128,HDD,35,35,30,25,32.75,32.25,30.25,31.75,32.5,Daily Use
+Pentium Silver N6000,Intel UHD Graphics,4,128,HDD,30,25,30,25,27.0,28.0,27.75,27.75,27.75,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+Ryzen 5 5500U,AMD Radeon,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+Ryzen 7 5800H,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,78,70,80,80,75.0,76.8,78.4,76.9,76.3,All-Rounder
+10th Gen Core i5,Intel Integrated UHD,8,512,SSD,65,25,55,80,47.75,54.75,63.75,55.5,53.25,Daily Use
+M1 Pro 8-core CPU,14-Core GPU,16,512,SSD,86,35,80,80,61.25,70.85,77.3,70.55,68.6,Editing
+Ryzen 5 5600H,4 GB AMD Radeon RX 5500M,8,512,SSD,72,52,55,80,61.65,63.95,68.55,64.35,63.8,Daily Use
+11th Gen Core i5,2 GB NVIDIA GeForce MX350,8,512,SSD,68,40,55,80,55.25,59.55,66.15,60.15,58.8,Daily Use
+11th Gen Core i5,Intel Iris Xe Graphics,8,256,SSD,68,42,55,65,53.9,57.8,61.1,57.65,57.15,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,256,SSD,68,58,55,65,61.1,61.8,62.7,61.65,61.95,Gaming
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+AMD Ryzen 3 3250U,AMD Radeon Vega 6,8,256,SSD,32,28,55,65,38.6,41.7,48.9,43.35,40.35,Daily Use
+8LX79PA) Laptop ,Integrated UHD Graphics 620,8,512,SSD,35,25,55,80,40.25,44.25,54.75,46.5,42.75,Daily Use
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+11th Gen Core i7,Intel Integrated Iris Xe,16,512,SSD,78,42,80,80,62.4,69.8,75.6,69.9,67.9,Editing
+AMD Athlon Silver 3050U,AMD Radeon Graphics,8,1000,HDD,22,30,55,70,37.75,39.45,47.85,41.85,38.2,Daily Use
+Ryzen 3 5300U,AMD Radeon Graphics,8,256,SSD,45,30,55,65,42.75,46.75,53.0,47.75,45.5,Daily Use
+11th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+Apple M2,10 Core GPU,16,512,SSD,85,35,80,80,61.0,70.5,77.0,70.25,68.25,Editing
+AMD Ryzen 3 5300U,AMD Radeon Graphics,8,512,SSD,45,30,55,80,45.0,49.0,58.25,50.75,47.75,Daily Use
+13th Gen Core i7,Intel Iris Xe Integrated Graphics,16,1000,SSD,83,42,80,95,65.9,73.8,82.35,74.4,71.9,Editing
+11th Gen Core i5,‎Intel Iris Xe Graphics,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+12th Gen Core i3,Intel HD Graphics,16,512,SSD,54,25,80,80,48.75,57.15,66.7,58.45,54.4,Daily Use
+12th Gen Core i3,Intel UHD Graphics,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+AMD Ryzen 5 5500U,AMD Radeon Graphics,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+AMD Ryzen 3 3250U,AMD Radeon Graphics,4,1000,HDD,32,30,30,70,36.5,36.7,44.6,38.6,36.7,Daily Use
+ Pentium Silver N6005,Intel Integrated UHD,4,256,SSD,32,25,30,65,33.5,34.7,42.35,36.35,34.45,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+11th Gen Core i5,Intel Integrated UHD,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+Athlon 3050U,AMD Radeon Graphics,8,1000,HDD,25,30,55,70,38.5,40.5,48.75,42.75,39.25,Daily Use
+Athlon 3150U,AMD Radeon AMD,4,1000,HDD,25,30,30,70,34.75,34.25,42.5,36.5,34.25,Daily Use
+Athlon 3050U,AMD Radeon AMD,4,256,SSD,25,30,30,65,34.0,33.5,40.75,35.5,33.5,Daily Use
+12th Gen Core i7,2 GB NVIDIA GeForce MX570,16,512,SSD,81,48,80,80,65.85,72.35,77.1,72.3,70.75,Editing
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,71,70,80,80,73.25,74.35,76.3,74.8,73.85,Gaming
+11th Gen Core i5,Intel Integrated Intel UHD,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,81,78,80,80,79.35,79.85,80.1,79.8,79.75,All-Rounder
+Ryzen 5-5600H,AMD Radeon Vega 7,16,512,SSD,72,31,80,80,55.95,64.95,72.7,65.35,62.5,Daily Use
+Pentium N5030,Intel Integrated UHD 605,8,256,SSD,27,20,55,65,33.75,37.95,46.6,39.85,36.2,Daily Use
+12th Gen Core i5,Intel Iris Xe,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+11th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+AMD Ryzen 5 5500U,AMD Radeon Graphics,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+12th Gen Core i9,8 GB NVIDIA GEFORCE RTX 3070 Ti,16,1000,SSD,95,86,80,95,88.7,89.0,90.35,89.0,89.3,All-Rounder
+12th Gen Core i7,Intel Integrated Iris,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+AMD Athlon 3050,‎AMD Integrated,4,256,SSD,25,25,30,65,31.75,32.25,40.25,34.25,32.0,Daily Use
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i5,Intel Iris Xe,8,256,SSD,71,42,55,65,54.65,58.85,62.0,58.55,58.2,Daily Use
+11th Gen Core i3,Intel Integrated UHD,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+11th Gen Core i7,Intel Integrated Iris Xe,16,512,SSD,78,42,80,80,62.4,69.8,75.6,69.9,67.9,Editing
+11th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+AMD Ryzen 5 5500U,AMD Radeon,16,512,SSD,62,30,80,80,53.0,61.2,69.6,62.1,58.7,Daily Use
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,71,70,80,80,73.25,74.35,76.3,74.8,73.85,Gaming
+11th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+AMD Ryzen 7 6800H,4 GB NVIDIA GeForce RTX 3050Ti,16,512,SSD,82,70,80,80,76.0,78.2,79.6,78.1,77.7,All-Rounder
+12th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+AMD Ryzen 5 5600H,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,72,70,80,80,73.5,74.7,76.6,75.1,74.2,Gaming
+Celeron N4020,Intel Integrated UHD,4,256,SSD,22,25,30,65,31.0,31.2,39.35,33.35,30.95,Daily Use
+12th Gen Core i5,Intel Integrated UHD,16,512,SSD,71,25,80,80,53.0,63.1,71.8,63.55,60.35,Daily Use
+AMD Ryzen 7 5800H,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,78,78,80,80,78.6,78.8,79.2,78.9,78.7,All-Rounder
+Athlon Pro 3045B,AMD Radeon Graphics,8,1000,HDD,25,30,55,70,38.5,40.5,48.75,42.75,39.25,Daily Use
+12th Gen Core i3,Intel Integrated Iris Xe Graphics,8,256,SSD,54,42,55,65,50.4,52.9,56.9,53.45,52.25,Daily Use
+AMD Ryzen 5 5500U,AMD Radeon Graphics,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+11th Gen Core i5,Intel Integrated UHD,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,68,70,80,80,72.5,73.3,75.4,73.9,72.8,Gaming
+11th Gen Core i5,4 GB NVIDIA GeForce GTX1650,8,512,SSD,68,58,55,80,63.35,64.05,67.95,64.65,64.2,Gaming
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050 Ti,16,512,SSD,71,73,80,80,74.6,75.1,76.6,75.55,74.75,Gaming
+12th Gen Core i5,Intel Integrated ARC,8,512,SSD,71,54,55,80,62.3,64.1,68.45,64.55,64.05,Daily Use
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,81,78,80,80,79.35,79.85,80.1,79.8,79.75,All-Rounder
+Ryzen 7 5700U,AMD Radeon Graphics,16,512,SSD,68,30,80,80,54.5,63.3,71.4,63.9,60.8,Daily Use
+12th Gen Core i9,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,95,78,80,95,85.1,87.0,89.55,87.0,86.9,All-Rounder
+Intel Celeron N4020,Intel HD Graphics,4,128,SSD,22,25,30,50,28.75,28.95,34.1,30.35,28.7,Daily Use
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+11th Gen Core i3,Intel UHD Graphics,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+Ryzen 5 5500U,AMD Radeon Radeon,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+12th Gen Core i7,Intel Iris X Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050 Ti,16,1000,SSD,81,73,80,95,79.35,80.85,84.85,81.55,80.5,All-Rounder
+AMD Ryzen 3 5425U,AMD Radeon AMD,8,256,SSD,48,30,55,65,43.5,47.8,53.9,48.65,46.55,Daily Use
+11th Gen Core i5,Intel Iris XE Graphic,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+AMD Ryzen 3 5425U,AMD Radeon AMD,8,512,SSD,48,30,55,80,45.75,50.05,59.15,51.65,48.8,Daily Use
+11th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+12th Gen Core i5,Intel Iris Xe,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+Intel Celeron N4020,Intel Integrated UHD,8,256,SSD,22,25,55,65,34.75,37.45,45.6,39.6,35.95,Daily Use
+12th Gen Core i3,Intel Iris Xe,8,256,SSD,54,42,55,65,50.4,52.9,56.9,53.45,52.25,Daily Use
+AMD Ryzen 3 3250U,AMD Radeon Radeon,8,256,SSD,32,30,55,65,39.5,42.2,49.1,43.85,40.95,Daily Use
+11th Gen Core i7,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,78,70,55,80,71.25,70.55,72.15,70.65,71.3,Gaming
+Ryzen 7-4800H,4 GB NVIDIA GeForce GTX 1650 Max Q,16,512,SSD,72,55,80,80,66.75,70.95,75.1,71.35,69.7,Editing
+AMD Ryzen 5 5500U,AMD Radeon,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+Ryzen 7 5800H,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,78,70,55,80,71.25,70.55,72.15,70.65,71.3,Gaming
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+11th Gen Core i5,Intel UHD Graphics,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,68,70,55,80,68.75,67.05,69.15,67.65,67.8,Gaming
+11th Gen Core i3,Intel UHD Graphics,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+Ryzen 3 3250U,AMD Radeon AMD,8,256,SSD,32,30,55,65,39.5,42.2,49.1,43.85,40.95,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+AMD Athlon 3050U,AMD Radeon AMD,8,256,SSD,25,30,55,65,37.75,39.75,47.0,41.75,38.5,Daily Use
+11th Gen Core i3,Intel Integrated UHD,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+AMD Ryzen 3 3250U,AMD Radeon,8,512,SSD,32,30,55,80,41.75,44.45,54.35,46.85,43.2,Daily Use
+AMD Ryzen3 5425U,AMD Radeon Radeon Graphics,8,512,SSD,35,30,55,80,42.5,45.5,55.25,47.75,44.25,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,68,58,55,80,63.35,64.05,67.95,64.65,64.2,Gaming
+11th Gen Core i9,16 GB NVIDIA GeForce RTX 3080,64,2000,SSD,92,88,100,100,92.6,94.2,96.4,94.6,93.6,All-Rounder
+Ryzen 7 5800H,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,78,78,80,80,78.6,78.8,79.2,78.9,78.7,All-Rounder
+11th Gen Core i3,Intel UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+Ryzen 5-5625U,AMD Radeon Graphics,8,512,SSD,66,30,55,80,50.25,56.35,64.55,57.05,55.1,Daily Use
+12th Gen Core i7,Intel Iris Xe Graphics,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+12th Gen Core i7,Intel Iris Xe Graphics,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,32,1000,SSD,81,78,95,95,83.85,85.85,89.1,86.55,85.0,All-Rounder
+12th Gen Core i7,4 GB NVIDIA GEFORCE RTX 3050 Ti,16,512,SSD,81,73,80,80,77.1,78.6,79.6,78.55,78.25,All-Rounder
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050 Ti,16,512,SSD,81,73,80,80,77.1,78.6,79.6,78.55,78.25,All-Rounder
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+11th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,78,78,80,80,78.6,78.8,79.2,78.9,78.7,All-Rounder
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+11th Gen Core i3,Intel UHD Graphics,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+12th Gen Core i3,‎Intel UHD Graphics,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+AMD Ryzen 7 5800H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,78,58,55,80,65.85,67.55,70.95,67.65,67.7,Gaming
+11th Gen Core i3,Intel Integrated UHD,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,256,SSD,68,70,80,65,70.25,71.05,70.15,70.9,70.55,Gaming
+12th Gen Core i3,Missing,8,256,SSD,54,35,55,65,47.25,51.15,56.2,51.7,50.15,Daily Use
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,2 GB NVIDIA GeForce MX550,16,512,SSD,81,46,80,80,64.95,71.85,76.9,71.8,70.15,Editing
+Ryzen 7 4800H,4 GB NVIDIA GeForce RTX 3050 Ti,16,1000,SSD,72,73,80,95,77.1,77.7,82.15,78.85,77.35,Gaming
+10th Gen Core i5,Intel Integrated UHD Graphics,16,512,SSD,65,25,80,80,51.5,61.0,70.0,61.75,58.25,Daily Use
+Ryzen 3 3250U,AMD Radeon Vega 8 Graphics,8,512,SSD,32,34,55,80,43.55,45.45,54.75,47.85,44.4,Daily Use
+Ryzen 7-5800H,AMD Radeon Vega 7,16,512,SSD,78,31,80,80,57.45,67.05,74.5,67.15,64.6,Daily Use
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+Ryzen 7 5800H,AMD Radeon Graphics,16,512,SSD,78,30,80,80,57.0,66.8,74.4,66.9,64.3,Daily Use
+10th Gen Core i3,Intel Integrated UHD Graphics,8,512,SSD,48,25,55,80,43.5,48.8,58.65,50.4,47.3,Daily Use
+Ryzen 7 4800H,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,72,70,55,80,69.75,68.45,70.35,68.85,69.2,Gaming
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+11th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+Apple M2,10-Core GPU,8,512,SSD,85,35,55,80,57.25,64.25,70.75,64.0,63.25,Daily Use
+AMD Ryzen 5 4600H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,65,58,55,80,62.6,63.0,67.05,63.75,63.15,Gaming
+12th Gen Core i5,Intel Iris XE Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+12th Gen Core i5,Intel Iris Xe,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+10th Gen Core i3,Intel Integrated,8,512,SSD,48,25,55,80,43.5,48.8,58.65,50.4,47.3,Daily Use
+12th Gen Core i5,Intel Iris Xe,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+12th Gen Core i5,4 GB Intel Arc A350M Graphics,8,512,SSD,71,56,55,80,63.2,64.6,68.65,65.05,64.65,Daily Use
+Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,71,70,80,80,73.25,74.35,76.3,74.8,73.85,Gaming
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i5,2 GB NVIDIA GeForce MX550,16,512,SSD,71,46,80,80,62.45,68.35,73.9,68.8,66.65,Editing
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,68,70,55,80,68.75,67.05,69.15,67.65,67.8,Gaming
+Celeron N4020,Intel Integrated UHD,8,256,SSD,22,25,55,65,34.75,37.45,45.6,39.6,35.95,Daily Use
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,71,70,80,80,73.25,74.35,76.3,74.8,73.85,Gaming
+12th Gen Core i5,Intel UHD Graphics,16,512,SSD,71,25,80,80,53.0,63.1,71.8,63.55,60.35,Daily Use
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,71,70,55,80,69.5,68.1,70.05,68.55,68.85,Gaming
+Ryzen 9 5900HX,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,84,78,80,80,80.1,80.9,81.0,80.7,80.8,All-Rounder
+Celeron N4020,Intel Integrated UHD,4,256,SSD,22,25,30,65,31.0,31.2,39.35,33.35,30.95,Daily Use
+11th Gen Core i5,Intel UHD Graphics,16,256,SSD,68,25,80,65,50.0,59.8,65.65,59.65,57.05,Daily Use
+Pentium N5030,Intel Integrated UHD,8,256,SSD,27,25,55,65,36.0,39.2,47.1,41.1,37.7,Daily Use
+Ryzen 5-5625U,AMD Vega,16,512,SSD,66,35,80,80,56.25,63.85,71.3,64.55,61.6,Daily Use
+11th Gen Core i5,Intel Integrated,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+Athlon Pro 3045B,Missing,4,1000,HDD,25,35,30,70,37.0,35.5,43.0,37.75,35.75,Daily Use
+Ryzen 5 5625U,AMD Radeon Graphics,8,512,SSD,66,30,55,80,50.25,56.35,64.55,57.05,55.1,Daily Use
+Ryzen 5,AMD Radeon Graphics,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+11th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+Pentium Quad Core,Intel UHD,4,1000,HDD,27,25,30,70,33.0,33.7,42.6,35.85,33.45,Daily Use
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+Pentium Silver N6000,Intel UHD Graphics,8,256,SSD,30,25,55,65,36.75,40.25,48.0,42.0,38.75,Daily Use
+Apple M1,Apple M1 Integrated Graphics,16,512,SSD,75,58,80,80,68.85,72.75,76.3,73.0,71.65,Editing
+Ryzen 3 5300U,AMD Radeon Graphics,8,512,SSD,45,30,55,80,45.0,49.0,58.25,50.75,47.75,Daily Use
+11th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+Apple M1,Apple M1 Integrated Graphics,16,256,SSD,75,58,80,65,66.6,70.5,71.05,70.0,69.4,Gaming
+Ryzen 3 5300U,AMD Radeon AMD,8,512,SSD,45,30,55,80,45.0,49.0,58.25,50.75,47.75,Daily Use
+11th Gen Core i5,2 GB NVIDIA MX350,8,256,SSD,68,40,55,65,53.0,57.3,60.9,57.15,56.55,Daily Use
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+10th Gen Core i5,Intel UHD Graphics,8,256,SSD,65,25,55,65,45.5,52.5,58.5,52.5,51.0,Daily Use
+Ryzen 5 5600H,4 GB NVIDIA GeForce GTX 3050,8,512,SSD,72,65,55,80,67.5,67.2,69.85,67.6,67.7,Gaming
+Ryzen 5 5600H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,72,58,55,80,64.35,65.45,69.15,65.85,65.6,Gaming
+11th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,78,42,80,80,62.4,69.8,75.6,69.9,67.9,Editing
+11th Gen Core i3,Intel Integrated UHD,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+11th Gen Core i3,Intel Integrated UHD,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+10th Gen Core i7,Intel Integrated UHD,16,512,SSD,75,25,80,80,54.0,64.5,73.0,64.75,61.75,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+10th Gen Core i3,Intel Integrated UHD,8,512,SSD,48,25,55,80,43.5,48.8,58.65,50.4,47.3,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,68,58,55,80,63.35,64.05,67.95,64.65,64.2,Gaming
+M1 Max 10-core CPU,32-core GPU,32,1000,SSD,90,35,95,95,66.75,78.25,87.5,78.5,75.25,Editing
+Intel Celeron N4020,Intel Integrated UHD,4,1000,HDD,22,25,30,70,31.75,31.95,41.1,34.35,31.7,Daily Use
+11th Gen Core i3,Intel Integrated,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+Ryzen 5 5600H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,72,58,55,80,64.35,65.45,69.15,65.85,65.6,Gaming
+11th Gen Core i3,Intel Integrated UHD,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+Ryzen 5 5600H,4 GB AMD Radeon RX5500M,8,512,SSD,72,30,55,80,51.75,58.45,66.35,58.85,57.2,Daily Use
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+11th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+Intel Pentium N5030,Intel UHD Graphics 605,4,1000,HDD,27,20,30,70,30.75,32.45,42.1,34.6,31.95,Daily Use
+AMD Ryzen 9,4 GB NVIDIA GeForce GTX 1650,16,1000,SSD,88,58,80,95,74.35,79.55,85.45,79.9,78.45,Editing
+11th Gen Core i7,Intel Iris Xe Graphics,16,1000,SSD,78,42,80,95,64.65,72.05,80.85,72.9,70.15,Editing
+11th Gen Core i5,Intel Iris Xe Graphics,8,256,SSD,68,42,55,65,53.9,57.8,61.1,57.65,57.15,Daily Use
+Apple M1,Apple M1 Integrated Graphics,8,512,SSD,75,58,55,80,65.1,66.5,70.05,66.75,66.65,Gaming
+10th Gen Core i3,Intel Integrated UHD,4,1000,HDD,48,25,30,70,38.25,41.05,48.9,42.15,40.8,Daily Use
+V4G-00021) Laptop ,AMD Radeon Vega 9,8,128,SSD,35,30,55,50,38.0,41.0,44.75,41.75,39.75,Daily Use
+7YY01PA) Laptop ,2 GB Radeon RX 550,8,512,SSD,35,30,55,80,42.5,45.5,55.25,47.75,44.25,Daily Use
+11th Gen Core i5,Intel UHD Graphics,16,256,SSD,68,25,80,65,50.0,59.8,65.65,59.65,57.05,Daily Use
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+AMD Ryzen 3 5300U,AMD Radeon Graphics,8,512,SSD,45,30,55,80,45.0,49.0,58.25,50.75,47.75,Daily Use
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+11th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,68,58,55,80,63.35,64.05,67.95,64.65,64.2,Gaming
+AMD Ryzen 5 5600H,4 GB AMD Radeon RX 6500M Graphics,8,512,SSD,72,58,55,80,64.35,65.45,69.15,65.85,65.6,Gaming
+11th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,16,512,SSD,68,58,80,80,67.1,70.3,74.2,70.9,69.2,Editing
+12th Gen Core i9,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,95,78,80,95,85.1,87.0,89.55,87.0,86.9,All-Rounder
+AMD Ryzen 5 5600H,6 GB NVIDIA GeForce RTX3060,16,512,SSD,72,78,80,80,77.1,76.7,77.4,77.1,76.6,Gaming
+AMD Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050Ti,16,512,SSD,81,70,80,80,75.75,77.85,79.3,77.8,77.35,All-Rounder
+12th Gen Core i9,8 GB NVIDIA GeForce RTX 3070Ti,16,1000,SSD,95,84,80,95,87.8,88.5,90.15,88.5,88.7,All-Rounder
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,Intel Iris X Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+AMD Ryzen 7 5800U,AMD Radeon,16,512,SSD,70,30,80,80,55.0,64.0,72.0,64.5,61.5,Daily Use
+M2 Pro 12-core CPU,19-core GPU,16,1000,SSD,90,35,80,95,64.5,74.5,83.75,74.75,72.25,Editing
+M2 Pro 12-core CPU,19-core GPU,16,512,SSD,90,35,80,80,62.25,72.25,78.5,71.75,70.0,Editing
+M2 Max 12-core CPU,30-core GPU,32,1000,SSD,94,35,95,95,67.75,79.65,88.7,79.7,76.65,Editing
+M2 Pro 12-core CPU,19-core GPU,16,1000,SSD,90,35,80,95,64.5,74.5,83.75,74.75,72.25,Editing
+M2 Pro 10-core CPU,16-core GPU,16,512,SSD,90,35,80,80,62.25,72.25,78.5,71.75,70.0,Editing
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+Apple M2,10 Core GPU,16,256,SSD,85,35,80,65,58.75,68.25,71.75,67.25,66.0,Daily Use
+Apple M2,10-Core GPU,16,512,SSD,85,35,80,80,61.0,70.5,77.0,70.25,68.25,Editing
+Apple M2,10-Core GPU,16,256,SSD,85,35,80,65,58.75,68.25,71.75,67.25,66.0,Daily Use
+12th Gen Core i5,Intel Integrated UHD,16,512,SSD,71,25,80,80,53.0,63.1,71.8,63.55,60.35,Daily Use
+12th Gen Core i9,16 GB NVIDIA GeForce RTX 3080 Ti,32,1000,SSD,95,92,95,95,93.65,94.25,94.7,94.25,94.1,All-Rounder
+11th Gen Core i3,Intel UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+AMD Ryzen 3 5425U,AMD Radeon AMD,8,256,SSD,48,30,55,65,43.5,47.8,53.9,48.65,46.55,Daily Use
+AMD Ryzen 3 3250U,AMD Radeon Graphics,8,512,SSD,32,30,55,80,41.75,44.45,54.35,46.85,43.2,Daily Use
+12th Gen Core i3,Intel Integrated UHD,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+11th Gen Core i3,Intel Integrated UHD,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+11th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+12th Gen Core i5,Intel UHD Graphics,16,512,SSD,71,25,80,80,53.0,63.1,71.8,63.55,60.35,Daily Use
+12th Gen Core i5,2 GB NVIDIA MX550 Graphics,8,256,SSD,71,46,55,65,56.45,59.85,62.4,59.55,59.4,Daily Use
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,Intel Integrated Iris Xe,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,71,70,55,80,69.5,68.1,70.05,68.55,68.85,Gaming
+Ryzen 5 5625U,AMD Radeon Graphics,16,512,SSD,66,30,80,80,54.0,62.6,70.8,63.3,60.1,Daily Use
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+Ryzen 7 5800U,AMD Radeon Graphic,16,512,SSD,70,30,80,80,55.0,64.0,72.0,64.5,61.5,Daily Use
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+AMD Ryzen 7 6800HS,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+12th Gen Core i5,Intel UHD Graphics,8,512,SSD,71,25,55,80,49.25,56.85,65.55,57.3,55.35,Daily Use
+AMD R5-5625U,AMD Radeon Radeon Graphics,16,512,SSD,35,30,80,80,46.25,51.75,61.5,54.0,49.25,Daily Use
+AMD Ryzen 5-5625U,AMD Radeon Radeon Graphics,8,512,SSD,66,30,55,80,50.25,56.35,64.55,57.05,55.1,Daily Use
+12th Gen Core i3,Intel UHD Graphics,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+AMD Ryzen 9 6900HS,8 GB NVIDIA GeForce RTX 3070Ti,16,1000,SSD,88,84,80,95,86.05,86.05,88.05,86.4,86.25,All-Rounder
+12th Gen Core i7,Intel Integrated Iris Xe,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+12th Gen Core i3,Intel UHD Graphics,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+11th Gen Core i5,Intel Integrated,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+12th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,71,58,55,80,64.1,65.1,68.85,65.55,65.25,Gaming
+11th Gen Core i7,4 GB Nvidia Quadro T600,16,1000,SSD,78,35,80,95,61.5,70.3,80.15,71.15,68.05,Editing
+12th Gen Core i5,Intel Iris Xe Graphic,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i3,Intel Integrated UHD,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+Intel Pentium Gold 7505,Intel UHD Graphics,8,256,SSD,38,25,55,65,38.75,43.05,50.4,44.4,41.55,Daily Use
+11th Gen Core i3,Intel Integrated,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+Athlon 3050U,AMD Radeon AMD,4,1000,HDD,25,30,30,70,34.75,34.25,42.5,36.5,34.25,Daily Use
+Athlon 3050U,AMD Radeon AMD,4,256,SSD,25,30,30,65,34.0,33.5,40.75,35.5,33.5,Daily Use
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,81,70,55,80,72.0,71.6,73.05,71.55,72.35,Gaming
+AMD Ryzen 5 5500U,AMD Radeon,16,512,SSD,62,30,80,80,53.0,61.2,69.6,62.1,58.7,Daily Use
+11th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+Ryzen 7 4800H,4 GB NVIDIA GeForce RTX 3050 Ti,8,512,SSD,72,73,55,80,71.1,69.2,70.65,69.6,70.1,Gaming
+12th Gen Core i5,Intel Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i3,‎Intel UHD Graphics,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+Celeron N4020,Intel Integrated UHD Graphics,4,128,SSD,22,25,30,50,28.75,28.95,34.1,30.35,28.7,Daily Use
+12th Gen Core i5,Intel Integrated UHD Graphics,16,512,SSD,71,25,80,80,53.0,63.1,71.8,63.55,60.35,Daily Use
+Celeron N4020,Intel Integrated UHD Graphics,4,128,SSD,22,25,30,50,28.75,28.95,34.1,30.35,28.7,Daily Use
+Celeron N4020,Intel Integrated UHD Graphics,4,256,SSD,22,25,30,65,31.0,31.2,39.35,33.35,30.95,Daily Use
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050 Ti,16,1000,SSD,81,73,80,95,79.35,80.85,84.85,81.55,80.5,All-Rounder
+12th Gen Core i3,Intel Integrated UHD,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+12th Gen Core i7,8 GB NVIDIA GeForce RTX 3070Ti,32,1000,SSD,81,84,95,95,86.55,87.35,89.7,88.05,86.8,All-Rounder
+AMD Ryzen 5-5600U,AMD Radeon,8,512,SSD,64,30,55,80,49.75,55.65,63.95,56.45,54.4,Daily Use
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+12th Gen Core i5,Intel Iris Xe Graphic,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+11th Gen Core i5,Intel UHD Graphics,16,512,SSD,68,25,80,80,52.25,62.05,70.9,62.65,59.3,Daily Use
+12th Gen Core i5,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,71,78,80,80,76.85,76.35,77.1,76.8,76.25,Gaming
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050 TI,16,512,SSD,71,73,80,80,74.6,75.1,76.6,75.55,74.75,Gaming
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,71,70,55,80,69.5,68.1,70.05,68.55,68.85,Gaming
+12th Gen Core i5,Intel Integrated UHD,8,512,SSD,71,25,55,80,49.25,56.85,65.55,57.3,55.35,Daily Use
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+AMD Ryzen 5 5600H,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,72,70,80,80,73.5,74.7,76.6,75.1,74.2,Gaming
+AMD Ryzen 5 5600H,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,72,70,55,80,69.75,68.45,70.35,68.85,69.2,Gaming
+AMD Ryzen 5 5600H,4 GB NVIDIA GeForce GTX 1650,16,512,SSD,72,58,80,80,68.1,71.7,75.4,72.1,70.6,Editing
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+11th Gen Core i3,Intel Integrated,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+10th Gen Core i3,Intel Integrated UHD,4,256,SSD,48,25,30,65,37.5,40.3,47.15,41.15,40.05,Daily Use
+11th Gen Core i7,2 GB NVIDIA MX450,16,512,SSD,78,44,80,80,63.3,70.3,75.8,70.4,68.5,Editing
+12th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+Celeron N4500,Intel UHD Graphics,4,256,SSD,25,25,30,65,31.75,32.25,40.25,34.25,32.0,Daily Use
+intel Core i3,Intel Integrated,8,512,SSD,45,25,55,80,42.75,47.75,57.75,49.5,46.25,Daily Use
+Ryzen 7 5700U,AMD Raedon Graphics,16,512,SSD,68,35,80,80,56.75,64.55,71.9,65.15,62.3,Daily Use
+11th Gen Core i3,Intel Integrated UHD,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+Snapdragon 7c,Qualcomm Adreno 618,4,128,HDD,35,35,30,25,32.75,32.25,30.25,31.75,32.5,Daily Use
+11th Gen Core i5,Intel UHD,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+12th Gen Core i5,Intel Integrated Integrated,8,512,SSD,71,25,55,80,49.25,56.85,65.55,57.3,55.35,Daily Use
+12th Gen Core i7,Intel Iris Xe,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+10th Gen Core i3,Intel Integrated,8,256,SSD,48,25,55,65,41.25,46.55,53.4,47.4,45.05,Daily Use
+AMD Ryzen 5 5625U,AMD Radeon Radeon,8,512,SSD,66,30,55,80,50.25,56.35,64.55,57.05,55.1,Daily Use
+11th Gen Core i5,Intel UHD,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+10th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,65,58,55,80,62.6,63.0,67.05,63.75,63.15,Gaming
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+Ryzen 5 5500U,AMD Radeon Graphics,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+11th Gen Core i3,Intel Integrated,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+12th Gen Core i5,Intel Iris Xe,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+11th Gen Core i9,16 GB NVIDIA GEFORCE RTX 3080,32,1000,SSD,92,88,95,95,91.1,92.2,93.4,92.35,91.85,All-Rounder
+11th Gen Core i3,Intel Integrated UHD,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+12th Gen Core i7,4 GB Nvidia Quadro T1200,32,1000,SSD,81,35,95,95,64.5,75.1,84.8,75.8,72.1,Editing
+12th Gen Core i7,Intel Iris Xe,8,256,SSD,81,42,55,65,57.15,62.35,65.0,61.55,61.7,Daily Use
+12th Gen Core i7,Intel Iris Xe Graphics,16,256,SSD,81,42,80,65,60.9,68.6,71.25,67.8,66.7,Daily Use
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+12th Gen Core i7,Intel Iris Xe,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+Ryzen 5 5500U,AMD Radeon AMD,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+12th Gen Core i7,8 GB NVIDIA GeForce RTX 3070Ti,32,1000,SSD,81,84,95,95,86.55,87.35,89.7,88.05,86.8,All-Rounder
+10th Gen Core i3,Intel Integrated UHD,4,256,SSD,48,25,30,65,37.5,40.3,47.15,41.15,40.05,Daily Use
+11th Gen Core i5,Intel Iris Xe,12,512,SSD,68,42,65,80,57.65,62.55,68.85,63.15,61.4,Daily Use
+Celeron N4500,Intel UHD Graphics,4,256,SSD,25,25,30,65,31.75,32.25,40.25,34.25,32.0,Daily Use
+12th Gen Core i5,Intel Iris Xe,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+11th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,78,42,80,80,62.4,69.8,75.6,69.9,67.9,Editing
+Ryzen 5 5500U,AMD Radeon 5500U,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+12th Gen Core i7 ,Iris Xe,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+Ryzen 7 5700U,AMD Radeon AMD,16,512,SSD,68,30,80,80,54.5,63.3,71.4,63.9,60.8,Daily Use
+AMD Ryzen 7 5800H,4 GB AMD Radeon RX 5500M Graphics,8,512,SSD,78,52,55,80,63.15,66.05,70.35,66.15,65.9,Daily Use
+Pentium Silver N5030,Intel Integrated UHD,8,256,SSD,27,25,55,65,36.0,39.2,47.1,41.1,37.7,Daily Use
+10th Gen Core i5,Intel Integrated UHD,8,512,SSD,65,25,55,80,47.75,54.75,63.75,55.5,53.25,Daily Use
+12th Gen Core i5,2 GB NVIDIA MX550,8,512,SSD,71,46,55,80,58.7,62.1,67.65,62.55,61.65,Daily Use
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,81,78,80,80,79.35,79.85,80.1,79.8,79.75,All-Rounder
+AMD Ryzen 3 3250U,AMD Radeon Radeon Graphics,8,1000,HDD,32,30,55,70,40.25,42.95,50.85,44.85,41.7,Daily Use
+11th Gen Core i3,Intel Integrated,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+10th Gen Core i3,Intel Integrated UHD,8,512,SSD,48,25,55,80,43.5,48.8,58.65,50.4,47.3,Daily Use
+12th Gen Core i3,‎Intel UHD Graphics,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+Intel Celeron N4020,Intel HD,4,32,HDD,22,25,30,25,25.0,25.2,25.35,25.35,24.95,Daily Use
+11th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,78,42,80,80,62.4,69.8,75.6,69.9,67.9,Editing
+AMD Ryzen 5 4500U,AMD Radeon,8,512,SSD,58,30,55,80,48.25,53.55,62.15,54.65,52.3,Daily Use
+Celeron N4020,Intel Integrated UHD,4,256,SSD,22,25,30,65,31.0,31.2,39.35,33.35,30.95,Daily Use
+AMD Ryzen 5 5625U,AMD Radeon Graphics,16,512,SSD,66,30,80,80,54.0,62.6,70.8,63.3,60.1,Daily Use
+Ryzen 9-6900HX,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,90,78,80,95,83.85,85.25,88.05,85.5,85.15,All-Rounder
+Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,82,78,80,80,79.6,80.2,80.4,80.1,80.1,All-Rounder
+Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3070 Ti,16,1000,SSD,82,86,80,95,85.45,84.45,86.45,85.1,84.75,All-Rounder
+12th Gen Core i9,8 GB NVIDIA GEFORCE RTX 3070 Ti,16,1000,SSD,95,86,80,95,88.7,89.0,90.35,89.0,89.3,All-Rounder
+12th Gen Core i7,2 GB NVIDIA GeForce MX550,16,512,SSD,81,46,80,80,64.95,71.85,76.9,71.8,70.15,Editing
+12th Gen Core i3,Intel Integrated,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+11th Gen Core i3,Intel Integrated UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+AMD Ryzen 5 5625U,AMD Radeon Graphics,16,512,SSD,66,30,80,80,54.0,62.6,70.8,63.3,60.1,Daily Use
+AMD Ryzen 5 4600H,4 GB NVIDIA GeForce GTX 1650,8,1000,SSD,65,58,55,95,64.85,65.25,72.3,66.75,65.4,Gaming
+12th Gen Core i5,Intel Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,Intel Iris Xe Graphics,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+12th Gen Core i3,Intel Iris Xe,8,512,SSD,54,42,55,80,52.65,55.15,62.15,56.45,54.5,Daily Use
+11th Gen Core i7,6 GB NVIDIA Geforce RTX 3060,16,512,SSD,78,78,80,80,78.6,78.8,79.2,78.9,78.7,All-Rounder
+11th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,256,SSD,68,58,55,65,61.1,61.8,62.7,61.65,61.95,Gaming
+12th Gen Core i3,Intel Integrated UHD,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+AMD Ryzen 9 6900HX,8 GB NVIDIA GeForce RTX 3070 Ti,16,1000,SSD,90,86,80,95,87.45,87.25,88.85,87.5,87.55,All-Rounder
+10th Gen Core i5,Intel UHD Graphics,8,512,SSD,65,25,55,80,47.75,54.75,63.75,55.5,53.25,Daily Use
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+11th Gen Core i7,2 GB NVIDIA Geforce MX450,32,1000,SSD,78,44,95,95,67.8,76.3,84.8,77.15,73.75,Editing
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+12th Gen Core i7,Intel Iris Xe Graphics,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+12th Gen Core i5,‎Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+Celeron N4500,Intel UHD Graphics,4,256,SSD,25,25,30,65,31.75,32.25,40.25,34.25,32.0,Daily Use
+12th Gen Core i7,16 GB NVIDIA GeForce RTX A5500,32,1000,SSD,81,35,95,95,64.5,75.1,84.8,75.8,72.1,Editing
+AMD Ryzen 7 5700U,AMD Radeon,16,512,SSD,68,30,80,80,54.5,63.3,71.4,63.9,60.8,Daily Use
+12th Gen Core i5 ,Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,Intel Iris XE Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+AMD Ryzen 3 3250U,AMD Radeon AMD,8,256,SSD,32,30,55,65,39.5,42.2,49.1,43.85,40.95,Daily Use
+12th Gen Core i9,12 GB NVIDIA GeForce RTX A3000,64,2000,SSD,95,35,100,100,69.5,82.0,92.0,82.25,78.75,Editing
+Ryzen 5 5500U,AMD Radeon Graphics,16,512,SSD,62,30,80,80,53.0,61.2,69.6,62.1,58.7,Daily Use
+AMD Ryzen 3 3250U,AMD Radeon AMD,8,256,SSD,32,30,55,65,39.5,42.2,49.1,43.85,40.95,Daily Use
+12th Gen Core i7,8 GB NVIDIA GeForce RTX A2000,32,1000,SSD,81,35,95,95,64.5,75.1,84.8,75.8,72.1,Editing
+12th Gen Core i9,16 GB NVIDIA GeForce 3080Ti,32,2000,SSD,95,35,95,100,68.75,80.75,90.75,81.0,77.75,Editing
+AMD Ryzen 9 6900HX,8 GB AMD Radeon RX 6650M Graphics,32,1000,SSD,90,72,95,95,83.4,87.5,91.2,87.75,86.35,All-Rounder
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+12th Gen Core i7,8 GB NVIDIA GeForce 3070Ti,16,1000,SSD,81,35,80,95,62.25,71.35,81.05,72.05,69.1,Editing
+Intel Celeron N5100,Intel UHD 600 Graphics,8,256,SSD,20,25,55,65,34.25,36.75,45.0,39.0,35.25,Daily Use
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+12th Gen Core i5,Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,71,70,80,80,73.25,74.35,76.3,74.8,73.85,Gaming
+AMD Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+12th Gen Core i5,Intel UHD,8,512,SSD,71,25,55,80,49.25,56.85,65.55,57.3,55.35,Daily Use
+AMD Ryzen 5 5600H,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,72,70,55,80,69.75,68.45,70.35,68.85,69.2,Gaming
+12th Gen Core i7 ,Iris Xe,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+AMD Ryzen 7 6800H,4 GB NVIDIA GeForce RTX 3050Ti,16,512,SSD,82,70,80,80,76.0,78.2,79.6,78.1,77.7,All-Rounder
+AMD Ryzen 7 6800H,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,82,70,80,80,76.0,78.2,79.6,78.1,77.7,All-Rounder
+11th Gen Core i5,Intel Integrated,8,1000,HDD,68,25,55,70,47.0,54.3,61.15,54.4,52.8,Daily Use
+Intel Celeron N4020,Intel Integrated UHD,4,1000,HDD,22,25,30,70,31.75,31.95,41.1,34.35,31.7,Daily Use
+AMD Ryzen 7 5800H,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,78,70,55,80,71.25,70.55,72.15,70.65,71.3,Gaming
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,Intel Iris Xe Graphics,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+12th Ge Core i7,Intel Iris Xe Graphics,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+11th Gen Core i3,Intel UHD Graphics,16,256,SSD,51,25,80,65,45.75,53.85,60.55,54.55,51.1,Daily Use
+AMD Ryzen 5 3500U,AMD Radeon Radeon Graphics,16,512,SSD,45,30,80,80,48.75,55.25,64.5,57.0,52.75,Daily Use
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050 Ti,16,512,SSD,68,73,80,80,73.85,74.05,75.7,74.65,73.7,Gaming
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,68,70,80,80,72.5,73.3,75.4,73.9,72.8,Gaming
+11th Gen Core i5,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,68,78,80,80,76.1,75.3,76.2,75.9,75.2,Gaming
+11th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,78,78,80,80,78.6,78.8,79.2,78.9,78.7,All-Rounder
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,71,70,80,80,73.25,74.35,76.3,74.8,73.85,Gaming
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050 Graphics,8,512,SSD,68,70,55,80,68.75,67.05,69.15,67.65,67.8,Gaming
+11th Gen Core i3,Intel UHD Graphics,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+10th Gen Core i5,Intel UHD Graphics,8,256,SSD,65,25,55,65,45.5,52.5,58.5,52.5,51.0,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+11th Gen Core i3,Intel UHD Graphics,16,512,SSD,51,25,80,80,48.0,56.1,65.8,57.55,53.35,Daily Use
+11th Gen Core i5,Intel UHD Graphics,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+11th Gen Core i3,Intel UHD Graphics,16,512,SSD,51,25,80,80,48.0,56.1,65.8,57.55,53.35,Daily Use
+11th Gen Core i3,Intel UHD Graphics,16,512,SSD,51,25,80,80,48.0,56.1,65.8,57.55,53.35,Daily Use
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+11th Gen Core i5,Intel UHD Graphics,16,1000,SSD,68,25,80,95,54.5,64.3,76.15,65.65,61.55,Daily Use
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+Intel Pentium N5030,UHD Graphics 600,4,128,SSD,27,25,30,50,30.0,30.7,35.6,31.85,30.45,Daily Use
+10th Gen Core i3,Intel Integrated Iris Xe,8,512,SSD,48,42,55,80,51.15,53.05,60.35,54.65,52.4,Daily Use
+11th Gen Core i5,Intel Integrated UHD,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+11th Gen Core i3,Intel UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+12th Gen Core i5,Intel Integrated UMA,16,512,SSD,71,25,80,80,53.0,63.1,71.8,63.55,60.35,Daily Use
+11th Gen Core i5,Intel Iris Xe,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i9,NVIDIA GeForce RTX 3030,32,2000,SSD,95,76,95,100,87.2,91.0,94.85,91.25,90.05,All-Rounder
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+AMD Ryzen 5 6600H,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,74,70,80,80,74.0,75.4,77.2,75.7,74.9,Gaming
+Ryzen 5 3500U,AMD Radeon AMD,8,512,SSD,45,30,55,80,45.0,49.0,58.25,50.75,47.75,Daily Use
+AMD Ryzen 7 6800H,4 GB NVIDIA GeForce RTX 3050 Ti,16,512,SSD,82,73,80,80,77.35,78.95,79.9,78.85,78.6,All-Rounder
+10th Gen Core i5,4 GB NVIDIA Geforce GTX 1650,8,512,SSD,65,58,55,80,62.6,63.0,67.05,63.75,63.15,Gaming
+Ryzen 5 5500U,AMD Radeon,8,256,SSD,62,30,55,65,47.0,52.7,58.1,52.85,51.45,Daily Use
+AMD Ryzen 7 6800H,Missing,16,1000,SSD,82,35,80,95,62.5,71.7,81.35,72.35,69.45,Editing
+AMD Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+AMD Ryzen 5 5600H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,72,58,55,80,64.35,65.45,69.15,65.85,65.6,Gaming
+12th Gen Core i5,Intel Iris X Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,8 GB NVIDIA GeForce RTX 3070Ti,32,1000,SSD,81,84,95,95,86.55,87.35,89.7,88.05,86.8,All-Rounder
+AMD Ryzen 5 5500U,AMD Radeon,8,256,SSD,62,30,55,65,47.0,52.7,58.1,52.85,51.45,Daily Use
+12th Gen Core i7,Intel Iris X Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+12th Gen Core i9,6 GB NVIDIA GeForce RTX 3060,32,1000,SSD,95,78,95,95,87.35,90.75,93.3,90.75,89.9,All-Rounder
+12th Gen Core i9,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,95,78,80,95,85.1,87.0,89.55,87.0,86.9,All-Rounder
+AMD Ryzen 7 6800H,8 GB NVIDIA GeForce RTX 3070,32,1000,SSD,82,84,95,95,86.8,87.7,90.0,88.35,87.15,All-Rounder
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+10th Gen Core i3,Intel UHD Graphics,8,512,SSD,48,25,55,80,43.5,48.8,58.65,50.4,47.3,Daily Use
+Ryzen 7 5700U,AMD Radeon,16,512,SSD,68,30,80,80,54.5,63.3,71.4,63.9,60.8,Daily Use
+Celeron N4500,Intel Integrated UHD Graphics,4,64,HDD,25,25,30,25,25.75,26.25,26.25,26.25,26.0,Daily Use
+11th Gen Core i3,Intel Integrated UHD,8,1000,HDD,51,25,55,70,42.75,48.35,56.05,49.3,46.85,Daily Use
+12th Gen Core i7,Intel Iris X Graphics,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+12th Gen Core i7,8 GB NVIDIA GeForce RTX 3070Ti,16,1000,SSD,81,84,80,95,84.3,83.6,85.95,84.3,83.8,All-Rounder
+10th Gen Core i5,Intel Integrated UHD,4,256,SSD,65,25,30,65,41.75,46.25,52.25,46.25,46.0,Daily Use
+12th Gen Core i5,Intel Integrated UHD,8,512,SSD,71,25,55,80,49.25,56.85,65.55,57.3,55.35,Daily Use
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i3,Intel Integrated UHD,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+11th Gen Core i5,Intel UHD,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+Athlon Pro 3045B,AMD Radeon Graphics,4,1000,HDD,25,30,30,70,34.75,34.25,42.5,36.5,34.25,Daily Use
+11th Gen Core i5,Intel UHD Graphics,16,512,SSD,68,25,80,80,52.25,62.05,70.9,62.65,59.3,Daily Use
+11th Gen Core i3,Intel Integrated Intel® UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+ Pentium Gold 7505,Intel Integrated,4,1000,HDD,38,25,30,70,35.75,37.55,45.9,39.15,37.3,Daily Use
+11th Gen Core i7,Graphics & Networking: Intel Iris X Graphics,8,512,SSD,78,42,55,80,58.65,63.55,69.35,63.65,62.9,Daily Use
+11th Gen Core i7,4 GB NVIDIA GeForce RTX3050,16,512,SSD,78,70,80,80,75.0,76.8,78.4,76.9,76.3,All-Rounder
+11th Gen Core i7,Intel UHD Graphics,16,1000,SSD,78,25,80,95,57.0,67.8,79.15,68.65,65.05,Daily Use
+11th Gen Core i5,512 MB Intel Integrated,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+10th Gen Core i5,Intel UHD Graphics,8,512,SSD,65,25,55,80,47.75,54.75,63.75,55.5,53.25,Daily Use
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+Intel Silver N6000,Intel Integrated Intel UHD,8,256,SSD,35,25,55,65,38.0,42.0,49.5,43.5,40.5,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+11th Gen Core i3,Intel Integrated UHD,4,256,SSD,51,25,30,65,38.25,41.35,48.05,42.05,41.1,Daily Use
+11th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+AMD Ryzen 9 6900HS,8 GB AMD Radeon RX 6700S,16,1000,SSD,88,30,80,95,61.75,72.55,82.65,72.9,70.05,Daily Use
+12th Gen Core i5,Intel Iris X Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+Ryzen 7 6800HS,6 GB AMD Radeon Radeon 680M,16,1000,SSD,82,46,80,95,67.45,74.45,82.45,75.1,72.75,Editing
+Ryzen 9 6900HS,6 GB AMD Radeon Radeon 680M,16,1000,SSD,88,46,80,95,68.95,76.55,84.25,76.9,74.85,Editing
+11th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+10th Gen Core i3,Intel UHD Graphics 620,8,256,SSD,48,25,55,65,41.25,46.55,53.4,47.4,45.05,Daily Use
+11th Gen Core i7,Intel Integrated Iris Xe,16,512,SSD,78,42,80,80,62.4,69.8,75.6,69.9,67.9,Editing
+11th Gen Core i7,4 GB NVIDIA GeForce GTX 1650,16,512,SSD,78,58,80,80,69.6,73.8,77.2,73.9,72.7,Editing
+12th Gen Core i3,Intel Integrated UHD,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+11th Gen Core i3,Intel UHD Integrated Graphics,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+11th Gen Core i5,Intel Integrated UHD Xe,16,512,SSD,68,25,80,80,52.25,62.05,70.9,62.65,59.3,Daily Use
+Ryzen 5 3450U,AMD Radeon,8,256,SSD,56,30,55,65,45.5,50.6,56.3,51.05,49.35,Daily Use
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,71,70,55,80,69.5,68.1,70.05,68.55,68.85,Gaming
+11th Gen Core i7,4 GB Nvidia RTX 3050,16,512,SSD,78,70,80,80,75.0,76.8,78.4,76.9,76.3,All-Rounder
+11th Gen Core i7,4 GB Nvidia RTX 3050 Ti,16,512,SSD,78,73,80,80,76.35,77.55,78.7,77.65,77.2,All-Rounder
+12th Gen Core i5,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,71,78,80,80,76.85,76.35,77.1,76.8,76.25,Gaming
+12th Gen Core i7,6 GB Nvidia GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+Ryzen 5 5600U,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,64,70,80,80,71.5,71.9,74.2,72.7,71.4,Gaming
+Celeron N4020,Intel Integrated UHD,4,256,SSD,22,25,30,65,31.0,31.2,39.35,33.35,30.95,Daily Use
+AMD Athlon 3050U,AMD Radeon Graphics,4,1000,HDD,25,30,30,70,34.75,34.25,42.5,36.5,34.25,Daily Use
+AMD Ryzen 5 5600U,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,64,70,80,80,71.5,71.9,74.2,72.7,71.4,Gaming
+11th Gen Core i7,4 GB ‎NVIDIA GeForce RTX 3050,8,1000,SSD,78,70,55,95,73.5,72.8,77.4,73.65,73.55,Gaming
+11th Gen Core i3,Intel Integrated Iris Xe,8,1000,HDD,51,42,55,70,50.4,52.6,57.75,53.55,51.95,Daily Use
+AMD Ryzen 9 6900HS,4 GB ‎NVIDIA GeForce RTX 3050,32,1000,SSD,88,70,95,95,82.0,86.3,90.4,86.65,85.05,All-Rounder
+11th Gen Core i7,2 GB NVIDIA Geforce MX450,16,1000,SSD,78,44,80,95,65.55,72.55,81.05,73.4,70.75,Editing
+11th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+AMD Ryzen 9 6900HS,4 GB ‎NVIDIA GeForce RTX 3050 Ti,32,1000,SSD,88,73,95,95,83.35,87.05,90.7,87.4,85.95,All-Rounder
+12th Gen Core i7,8 GB NVIDIA GeForce RTX 3070,16,512,SSD,81,84,80,80,82.05,81.35,80.7,81.3,81.55,All-Rounder
+AMD Ryzen 7 5800H,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,78,70,55,80,71.25,70.55,72.15,70.65,71.3,Gaming
+12th Gen Core i3,Intel Integrated UHD,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+Ryzen 5 5600H,4 GB NVIDIA GeForce GTX 1650,16,512,SSD,72,58,80,80,68.1,71.7,75.4,72.1,70.6,Editing
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+AMD Ryzen 5 5600H,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,72,70,55,80,69.75,68.45,70.35,68.85,69.2,Gaming
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+11th Gen Core i3,Intel Integrated UHD,4,256,SSD,51,25,30,65,38.25,41.35,48.05,42.05,41.1,Daily Use
+AMD Ryzen 9 6900HX,8 GB NVIDIA GeForce RTX 3070 Ti,16,1000,SSD,90,86,80,95,87.45,87.25,88.85,87.5,87.55,All-Rounder
+12th Gen Core i7,8 GB NVIDIA GeForce RTX 3070,16,1000,SSD,81,84,80,95,84.3,83.6,85.95,84.3,83.8,All-Rounder
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,81,78,80,80,79.35,79.85,80.1,79.8,79.75,All-Rounder
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+AMD Ryzen 3 5300U,AMD Radeon Graphics,8,256,SSD,45,30,55,65,42.75,46.75,53.0,47.75,45.5,Daily Use
+12th Gen Core i5,Intel Irix Xe Graphics,16,512,SSD,71,25,80,80,53.0,63.1,71.8,63.55,60.35,Daily Use
+AMD Ryzen 7 5800H,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,78,78,80,95,80.85,81.05,84.45,81.9,80.95,All-Rounder
+11th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,78,42,80,80,62.4,69.8,75.6,69.9,67.9,Editing
+12th Gen Core i9,16 GB NVIDIA GeForce RTX 3080 Ti,32,2000,SSD,95,92,95,100,94.4,95.0,96.45,95.25,94.85,All-Rounder
+12th Gen Core i7,8 GB NVIDIA GeForce RTX 3070 Ti,16,1000,SSD,81,86,80,95,85.2,84.1,86.15,84.8,84.4,All-Rounder
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050 Ti,16,512,SSD,81,73,80,80,77.1,78.6,79.6,78.55,78.25,All-Rounder
+Ryzen 7 5800H ,8 GB AMD Radeon RX 6600M,8,512,SSD,78,68,55,80,70.35,70.05,71.95,70.15,70.7,Gaming
+12th Gen Core i7,4 GB NVIDIA GeForce RTX A1000,16,1000,SSD,81,35,80,95,62.25,71.35,81.05,72.05,69.1,Editing
+11th Gen Core i5,4 GB NVIDIA GeForce GTX 1650 Max-Q,8,512,SSD,68,55,55,80,62.0,63.3,67.65,63.9,63.3,Daily Use
+12th Gen Core i9,16 GB NVIDIA GeForce RTX 3080Ti,32,4000,SSD,95,88,95,100,92.6,94.0,96.05,94.25,93.65,All-Rounder
+10th Gen Core i3,Intel UHD Graphics,8,512,SSD,48,25,55,80,43.5,48.8,58.65,50.4,47.3,Daily Use
+Intel Celeron N4020,Intel HD Graphics,8,256,SSD,22,25,55,65,34.75,37.45,45.6,39.6,35.95,Daily Use
+12th Gen Core i7,6 GB Nvidia GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+12th Gen Core i9,16 GB NVIDIA GeForce RTX 3080 Ti,32,1000,SSD,95,92,95,95,93.65,94.25,94.7,94.25,94.1,All-Rounder
+11th Gen Core i7,6 GB Nvidia RTX 3060,16,512,SSD,78,78,80,80,78.6,78.8,79.2,78.9,78.7,All-Rounder
+AMD Ryzen 7 5800H,10 GB AMD Radeon RX 6700M,16,1000,SSD,78,76,80,95,79.95,80.55,84.25,81.4,80.35,All-Rounder
+11th Gen Core i5,Intel Integrated Iris Xe,16,256,SSD,68,42,80,65,57.65,64.05,67.35,63.9,62.15,Daily Use
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,71,70,80,80,73.25,74.35,76.3,74.8,73.85,Gaming
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+Ryzen 3 5300U,AMD Radeon Graphic,4,512,SSD,45,30,30,80,41.25,42.75,52.0,44.5,42.75,Daily Use
+11th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+11th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+AMD Ryzen 5-5600H,AMD Radeon Graphics,16,512,SSD,72,30,80,80,55.5,64.7,72.6,65.1,62.2,Daily Use
+Ryzen 7 5800H,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,78,78,80,80,78.6,78.8,79.2,78.9,78.7,All-Rounder
+Pentium N6000,Intel Integrated UHD,8,256,SSD,27,25,55,65,36.0,39.2,47.1,41.1,37.7,Daily Use
+Celeron N4020,Intel Integrated UHD,4,1000,HDD,22,25,30,70,31.75,31.95,41.1,34.35,31.7,Daily Use
+AMD Ryzen 5 5600H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,72,58,55,80,64.35,65.45,69.15,65.85,65.6,Gaming
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+11th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+12th Gen Core i5,2 GB Nvidia MX550 Graphics,16,512,SSD,71,46,80,80,62.45,68.35,73.9,68.8,66.65,Editing
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050Ti,16,512,SSD,71,70,80,80,73.25,74.35,76.3,74.8,73.85,Gaming
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i5,Intel Iris X Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+12th Gen Core i7,8 GB NVIDIA GeForce RTX 3070Ti,16,1000,SSD,81,84,80,95,84.3,83.6,85.95,84.3,83.8,All-Rounder
+12th Gen Core i7,4 GB Intel Arc A370M 4GB VRAM Graphics,16,1000,SSD,81,60,80,95,73.5,77.6,83.55,78.3,76.6,Editing
+AMD Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+12th Gen Core i7,8 GB NVIDIA GeForce RTX 3070Ti,16,1000,SSD,81,84,80,95,84.3,83.6,85.95,84.3,83.8,All-Rounder
+12th Gen Core i9,16 GB NVIDIA GeForce RTX 3080 Ti,32,2000,SSD,95,92,95,100,94.4,95.0,96.45,95.25,94.85,All-Rounder
+AMD Ryzen 3,Missing,8,1000,HDD,45,35,55,70,45.75,48.75,55.25,50.0,47.75,Daily Use
+Ryzen 7-5800H,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,78,70,80,80,75.0,76.8,78.4,76.9,76.3,All-Rounder
+11th Gen Core i7,4 GB NVIDIA GeForce RTX 3050 Ti,16,512,SSD,78,73,80,80,76.35,77.55,78.7,77.65,77.2,All-Rounder
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,71,70,80,80,73.25,74.35,76.3,74.8,73.85,Gaming
+Intel Core i5,4 GB NVIDIA GeForce GTX 1650,16,512,SSD,62,58,80,80,65.6,68.2,72.4,69.1,67.1,Gaming
+12th Gen Core i5,Intel Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+AMD Ryzen 9 6900HS,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,88,78,80,95,83.35,84.55,87.45,84.9,84.45,All-Rounder
+12th Gen Core i7,Intel Integrated Iris Xe,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+12th Gen Core i9,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,95,78,80,95,85.1,87.0,89.55,87.0,86.9,All-Rounder
+AMD Ryzen 9 6900HS,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,88,78,80,95,83.35,84.55,87.45,84.9,84.45,All-Rounder
+12th Gen Core i7,8 GB NVIDIA GeForce RTX 3070 Ti,32,1000,SSD,81,86,95,95,87.45,87.85,89.9,88.55,87.4,All-Rounder
+12th Gen Core i7,8 GB NVIDIA GeForce RTX 3070Ti,32,2000,SSD,81,84,95,100,87.3,88.1,91.45,89.05,87.55,All-Rounder
+12th Gen Core i9,8 GB NVIDIA GeForce RTX 3070,32,1000,SSD,95,84,95,95,90.05,92.25,93.9,92.25,91.7,All-Rounder
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+11th Gen Core i3,Intel UHD Graphics,4,256,SSD,51,25,30,65,38.25,41.35,48.05,42.05,41.1,Daily Use
+11th Gen Core i3,Intel UHD Graphics,4,256,SSD,51,25,30,65,38.25,41.35,48.05,42.05,41.1,Daily Use
+11th Gen Core i5,Intel Integrated,8,1000,HDD,68,25,55,70,47.0,54.3,61.15,54.4,52.8,Daily Use
+11th Gen Core i3,Intel UHD Graphics,4,512,SSD,51,25,30,80,40.5,43.6,53.3,45.05,43.35,Daily Use
+AMD Ryzen 7-5800H,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,78,70,55,80,71.25,70.55,72.15,70.65,71.3,Gaming
+ Pentium Silver N6000,Intel Integrated UHD Graphics,8,256,SSD,30,25,55,65,36.75,40.25,48.0,42.0,38.75,Daily Use
+10th Gen Core i5,Intel Integrated UHD,8,512,SSD,65,25,55,80,47.75,54.75,63.75,55.5,53.25,Daily Use
+12th Gen Core i7,8 GB NVIDIA GeForce RTX 3070Ti,16,1000,SSD,81,84,80,95,84.3,83.6,85.95,84.3,83.8,All-Rounder
+ Pentium Silver N6000,Intel Integrated UHD Graphics,4,256,SSD,30,25,30,65,33.0,34.0,41.75,35.75,33.75,Daily Use
+12th Gen Core i7,8 GB NVIDIA GeForce RTX 3070Ti,16,1000,SSD,81,84,80,95,84.3,83.6,85.95,84.3,83.8,All-Rounder
+12th Gen Core i7,Intel Integrated Iris Xe,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+12th Gen Core i9,4 GB NVIDIA GeForce RTX 3050 Ti,32,1000,SSD,95,73,95,95,85.1,89.5,92.8,89.5,88.4,All-Rounder
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+AMD Ryzen 3 3250U,AMD Radeon AMD,8,256,SSD,32,30,55,65,39.5,42.2,49.1,43.85,40.95,Daily Use
+AMD Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+12th Gen Core i7,8 GB NVIDIA GEFORCE RTX 3070 Ti,32,1000,SSD,81,86,95,95,87.45,87.85,89.9,88.55,87.4,All-Rounder
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,81,70,80,80,75.75,77.85,79.3,77.8,77.35,All-Rounder
+12th Gen Core i7,Intel Iris Xe Graphics,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,71,70,80,80,73.25,74.35,76.3,74.8,73.85,Gaming
+AMD Ryzen 5-5600H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,72,58,55,80,64.35,65.45,69.15,65.85,65.6,Gaming
+11th Gen Core i3,Intel Integrated Intel UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+AMD Ryzen 5 3500U,AMD Radeon AMD,8,512,SSD,45,30,55,80,45.0,49.0,58.25,50.75,47.75,Daily Use
+AMD Ryzen 3 3250U,AMD Radeon AMD,8,512,SSD,32,30,55,80,41.75,44.45,54.35,46.85,43.2,Daily Use
+AMD Ryzen 9 6900HX,8 GB NVIDIA GeForce RTX 3070 Ti,16,1000,SSD,90,86,80,95,87.45,87.25,88.85,87.5,87.55,All-Rounder
+AMD Ryzen 9 6900HX,8 GB NVIDIA GeForce RTX 3080,16,1000,SSD,90,88,80,95,88.35,87.75,89.05,88.0,88.15,All-Rounder
+11th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+12th Gen Core i5,‎Intel UHD Graphics,8,512,SSD,71,25,55,80,49.25,56.85,65.55,57.3,55.35,Daily Use
+11th Gen Core i5,Intel Iris Xe,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+12th Gen Core i7,8 GB NVIDIA GEFORCE RTX 3070 Ti,32,1000,SSD,81,86,95,95,87.45,87.85,89.9,88.55,87.4,All-Rounder
+AMD Ryzen 5 4600H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,65,58,55,80,62.6,63.0,67.05,63.75,63.15,Gaming
+AMD Ryzen 9 6900HX,8 GB NVIDIA GeForce RTX 3070 Ti,16,1000,SSD,90,86,80,95,87.45,87.25,88.85,87.5,87.55,All-Rounder
+11th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,81,70,55,80,72.0,71.6,73.05,71.55,72.35,Gaming
+AMD Ryzen 3 3250U,AMD Radeon Radeon,8,256,SSD,32,30,55,65,39.5,42.2,49.1,43.85,40.95,Daily Use
+12th Gen Core i7,6 GB ‎NVIDIA GeForce RTX 3060,16,512,SSD,81,78,80,80,79.35,79.85,80.1,79.8,79.75,All-Rounder
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,1000,SSD,68,70,55,95,71.0,69.3,74.4,70.65,70.05,Gaming
+Ryzen 7 5800H,8 GB NVIDIA GeForce RTX 3070,16,1000,SSD,78,84,80,95,83.55,82.55,85.05,83.4,82.75,All-Rounder
+11th Gen Core i3,Intel Integrated Iris Xe Graphics,8,256,SSD,51,42,55,65,49.65,51.85,56.0,52.55,51.2,Daily Use
+11th Gen Core i3,Intel Integrated UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+11th Gen Core i7,4 GB  Nvidia Quadro T500,32,1000,SSD,78,35,95,95,63.75,74.05,83.9,74.9,71.05,Editing
+Intel Celeron N4500,Intel Integrated UHD Graphics,8,256,SSD,25,25,55,65,35.5,38.5,46.5,40.5,37.0,Daily Use
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+AMD Ryzen 5-5600H,AMD Radeon Graphics,16,512,SSD,72,30,80,80,55.5,64.7,72.6,65.1,62.2,Daily Use
+AMD Ryzen 5-5500U,4 GB NVIDIA GeForce GTX 1650,16,512,SSD,62,58,80,80,65.6,68.2,72.4,69.1,67.1,Gaming
+AMD 3020e,AMD Radeon AMD,4,1000,HDD,35,30,30,70,37.25,37.75,45.5,39.5,37.75,Daily Use
+AMD Ryzen 3 3250U,AMD Radeon Radeon Graphics,8,256,SSD,32,30,55,65,39.5,42.2,49.1,43.85,40.95,Daily Use
+11th Gen Core i7,2 GB NVIDIA MX450,16,512,SSD,78,44,80,80,63.3,70.3,75.8,70.4,68.5,Editing
+Ryzen 7 5800H,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,78,70,80,80,75.0,76.8,78.4,76.9,76.3,All-Rounder
+AMD Ryzen 7-5825U,AMD Radeon,16,512,SSD,72,30,80,80,55.5,64.7,72.6,65.1,62.2,Daily Use
+Ryzen 9 5900HX,4 GB NVIDIA GeForce RTX RTX 3050,16,1000,SSD,84,70,80,95,78.75,81.15,85.45,81.7,80.65,All-Rounder
+12th Gen Core i5,Intel UHD Graphics,8,512,SSD,71,25,55,80,49.25,56.85,65.55,57.3,55.35,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,68,58,55,80,63.35,64.05,67.95,64.65,64.2,Gaming
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+11th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,78,42,80,80,62.4,69.8,75.6,69.9,67.9,Editing
+ AMD Ryzen 7-5800H,4 GB NVIDIA GeForce RTX 3050Ti,16,512,SSD,78,70,80,80,75.0,76.8,78.4,76.9,76.3,All-Rounder
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,256,SSD,68,70,55,65,66.5,64.8,63.9,64.65,65.55,Gaming
+12th Gen Core i7,Intel Iris X Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,81,70,55,80,72.0,71.6,73.05,71.55,72.35,Gaming
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+Ryzen 7 5800H,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,78,78,80,80,78.6,78.8,79.2,78.9,78.7,All-Rounder
+12th Gen Core i3,Intel UHD,8,512,SSD,54,25,55,80,45.0,50.9,60.45,52.2,49.4,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,68,70,80,80,72.5,73.3,75.4,73.9,72.8,Gaming
+12th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,16,512,SSD,71,58,80,80,67.85,71.35,75.1,71.8,70.25,Editing
+AMD Ryzen7 5825U,AMD Radeon Radeon Graphics,8,512,SSD,35,30,55,80,42.5,45.5,55.25,47.75,44.25,Daily Use
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+AMD Ryzen 5 5625U,AMD Radeon Graphics,8,512,SSD,66,30,55,80,50.25,56.35,64.55,57.05,55.1,Daily Use
+10th Gen Core i5,4 GB NVIDIA GeForce GTX GTX-1650,8,1000,SSD,65,58,55,95,64.85,65.25,72.3,66.75,65.4,Gaming
+AMD Ryzen 7 6800HS ,AMD Radeon AMD,16,1000,SSD,82,30,80,95,60.25,70.45,80.85,71.1,67.95,Daily Use
+AMD Ryzen 9 6900HS,8 GB AMD Radeon RX 6800S,32,1000,SSD,88,30,95,95,64.0,76.3,86.4,76.65,73.05,Daily Use
+AMD Ryzen 7 6800HS ,4 GB NVIDIA GeForce RTX 3050 Ti,32,1000,SSD,82,73,95,95,81.85,84.95,88.9,85.6,83.85,All-Rounder
+AMD Ryzen 7 6800HS ,4 GB NVIDIA GeForce RTX 3050 Ti,32,1000,SSD,82,73,95,95,81.85,84.95,88.9,85.6,83.85,All-Rounder
+AMD Ryzen 7 6800HS,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+AMD Ryzen 7 6800HS,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+ AMD 9 6900HX,16 GB NVIDIA GeForce RTX 3080 Ti,32,2000,SSD,43,92,95,100,81.4,76.8,80.85,79.65,76.65,Gaming
+AMD Ryzen 9 6900HS,8 GB NVIDIA GeForce RTX 3080,16,1000,SSD,88,88,80,95,87.85,87.05,88.45,87.4,87.45,All-Rounder
+ AMD 9 6900HX,16 GB NVIDIA GeForce RTX 3080 Ti,32,2000,SSD,43,92,95,100,81.4,76.8,80.85,79.65,76.65,Gaming
+AMD Ryzen 7 6800HS,8 GB AMD Radeon RX 6700S,16,1000,SSD,82,30,80,95,60.25,70.45,80.85,71.1,67.95,Daily Use
+AMD Ryzen 7 6800HS,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+Ryzen 7 6800HS,4 GB NVIDIA GeForce RTX 3050 Ti,16,1000,SSD,82,73,80,95,79.6,81.2,85.15,81.85,80.85,All-Rounder
+ AMD Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3060,32,2000,SSD,82,78,95,100,84.85,86.95,91.15,87.85,86.1,All-Rounder
+AMD Ryzen 9 6900HS,8 GB NVIDIA GeForce RTX 3070,16,1000,SSD,88,84,80,95,86.05,86.05,88.05,86.4,86.25,All-Rounder
+Ryzen 7 6800HS,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+ AMD 9 6900HX,16 GB NVIDIA GeForce RTX 3080 Ti,32,2000,SSD,43,92,95,100,81.4,76.8,80.85,79.65,76.65,Gaming
+AMD Ryzen 7 6800HS ,AMD Radeon AMD,16,1000,SSD,82,30,80,95,60.25,70.45,80.85,71.1,67.95,Daily Use
+AMD Ryzen 9 6900HS,8 GB NVIDIA GeForce RTX 3070Ti,16,1000,SSD,88,84,80,95,86.05,86.05,88.05,86.4,86.25,All-Rounder
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,Intel Integrated Iris Xe,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+12th Gen Core i5,Intel Integrated Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+12th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+Ryzen 7 4800H,4 GB NVIDIA GeForce RTX RTX 3050,8,512,SSD,72,70,55,80,69.75,68.45,70.35,68.85,69.2,Gaming
+11th Gen Core i7,8 GB NVIDIA GeForce RTX 3070,32,1000,SSD,78,84,95,95,85.8,86.3,88.8,87.15,85.75,All-Rounder
+2022) X413EA-EB322WS Laptop ,Intel Integrated UHD,8,512,SSD,35,25,55,80,40.25,44.25,54.75,46.5,42.75,Daily Use
+10th Gen Core i5,4 GB Nvidia GTX1650 MaxQ,8,256,SSD,65,55,55,65,59.0,60.0,61.5,60.0,60.0,Daily Use
+11th Gen Core i5,Intel Integrated UHD,8,256,SSD,68,25,55,65,46.25,53.55,59.4,53.4,52.05,Daily Use
+10th Gen Core i5,Intel UHD Graphics,8,512,SSD,65,25,55,80,47.75,54.75,63.75,55.5,53.25,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,68,70,55,80,68.75,67.05,69.15,67.65,67.8,Gaming
+11th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+11th Gen Core i5,Intel Integrated Graphics,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+Ryzen 5 5600H ,8 GB AMD Radeon RX6600M,16,512,SSD,72,30,80,80,55.5,64.7,72.6,65.1,62.2,Daily Use
+Ryzen 5-5600H,4 GB NVIDIA GeForce RTX 3050 Ti,8,512,SSD,72,73,55,80,71.1,69.2,70.65,69.6,70.1,Gaming
+Ryzen 5 5500U,AMD Radeon Graphics,16,512,SSD,62,30,80,80,53.0,61.2,69.6,62.1,58.7,Daily Use
+10th Gen Core i5,Intel Integrated Intel UHD,16,512,SSD,65,25,80,80,51.5,61.0,70.0,61.75,58.25,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+12th Gen Core i7 ,4 GB NVIDIA Geforce RTX 3050 Ti,16,512,SSD,81,73,80,80,77.1,78.6,79.6,78.55,78.25,All-Rounder
+Ryzen 7 5700U,AMD Radeon Graphics,16,512,SSD,68,30,80,80,54.5,63.3,71.4,63.9,60.8,Daily Use
+Ryzen 7 4800H,4 GB NVIDIA GeForce RTX 3050,8,1000,SSD,72,70,55,95,72.0,70.7,75.6,71.85,71.45,Gaming
+12th Gen Core i5,Intel Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+Ryzen 7 5700U,AMD Radeon,16,512,SSD,68,30,80,80,54.5,63.3,71.4,63.9,60.8,Daily Use
+12th Gen Core i5,Intel Iris Xe,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+Pentium Silver N6000,Intel HD Graphics,4,256,SSD,30,25,30,65,33.0,34.0,41.75,35.75,33.75,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+12th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+Ryzen 5 5600H,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,72,58,55,80,64.35,65.45,69.15,65.85,65.6,Gaming
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,68,70,55,80,68.75,67.05,69.15,67.65,67.8,Gaming
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+Ryzen 5 5600U,AMD Raedon Graphics,8,512,SSD,64,35,55,80,52.0,56.9,64.45,57.7,55.9,Daily Use
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+AMD Ryzen 9 6900HX,4 GB NVIDIA GeForce RTX 3050,16,1000,SSD,90,70,80,95,80.25,83.25,87.25,83.5,82.75,All-Rounder
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+Ryzen 7 4800H,4 GB NVIDIA GeForce RTX3050,16,512,SSD,72,70,80,80,73.5,74.7,76.6,75.1,74.2,Gaming
+12th Gen Core i7,Intel Iris Xe Graphics,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,82,78,80,80,79.6,80.2,80.4,80.1,80.1,All-Rounder
+Ryzen 5 6600H,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,74,70,55,80,70.25,69.15,70.95,69.45,69.9,Gaming
+12th Gen Core i5,‎Intel Iris Xe Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+12th Gen Core i7,16 GB NVIDIA GeForce RTX RTX 3080 Ti,32,2000,SSD,81,92,95,100,90.9,90.1,92.25,91.05,89.95,All-Rounder
+Ryzen 7 6800H,4 GB NVIDIA GeForce RTX 3050 Ti,16,512,SSD,82,73,80,80,77.35,78.95,79.9,78.85,78.6,All-Rounder
+Ryzen 5 6600H,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,74,70,80,80,74.0,75.4,77.2,75.7,74.9,Gaming
+Ryzen 7 6800H,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,82,70,80,80,76.0,78.2,79.6,78.1,77.7,All-Rounder
+11th Gen Core i7,Intel Integrated Graphics,16,512,SSD,78,25,80,80,54.75,65.55,73.9,65.65,62.8,Daily Use
+11th Gen Core i7,8 GB NVIDIA GeForce RTX 3070,16,1000,SSD,78,84,80,95,83.55,82.55,85.05,83.4,82.75,All-Rounder
+12th Gen Core i7,Intel Iris X Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050 Ti,16,512,SSD,71,73,80,80,74.6,75.1,76.6,75.55,74.75,Gaming
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050 Ti,16,512,SSD,71,73,80,80,74.6,75.1,76.6,75.55,74.75,Gaming
+11th Gen Core i9,4 GB Nvidia RTX A2000,32,1000,SSD,92,35,95,95,67.25,78.95,88.1,79.1,75.95,Editing
+AMD Ryzen 9 6900HX,8 GB NVIDIA GeForce RTX 3070 Ti,16,1000,SSD,90,86,80,95,87.45,87.25,88.85,87.5,87.55,All-Rounder
+11th Gen Core i5,Intel Iris Xe Graphics,8,256,SSD,68,42,55,65,53.9,57.8,61.1,57.65,57.15,Daily Use
+12th Gen Core i3,Intel Iris Xe Graphics,8,512,SSD,54,42,55,80,52.65,55.15,62.15,56.45,54.5,Daily Use
+11th Gen Core i3,Intel Integrated UHD,4,256,SSD,51,25,30,65,38.25,41.35,48.05,42.05,41.1,Daily Use
+AMD Ryzen 5 6600H,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,74,70,55,80,70.25,69.15,70.95,69.45,69.9,Gaming
+AMD Ryzen 7 6800H,4 GB NVIDIA GeForce RTX 3050 Ti,16,512,SSD,82,73,80,80,77.35,78.95,79.9,78.85,78.6,All-Rounder
+AMD Ryzen 7 5800H,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,78,70,55,80,71.25,70.55,72.15,70.65,71.3,Gaming
+11th Gen Core i5,Intel Iris Xe Graphics,8,128,SSD,68,42,55,50,51.65,55.55,55.85,54.65,54.9,Daily Use
+11th Gen Core i3,Intel Integrated Iris Xe,8,256,SSD,51,42,55,65,49.65,51.85,56.0,52.55,51.2,Daily Use
+11th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+11th Gen Core i3,Intel Integrated Iris Xe,8,512,SSD,51,42,55,80,51.9,54.1,61.25,55.55,53.45,Daily Use
+11th Gen Core i3,Intel Integrated UHD,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,256,SSD,68,58,55,65,61.1,61.8,62.7,61.65,61.95,Gaming
+11th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+11th Gen Core i7,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,78,70,80,80,75.0,76.8,78.4,76.9,76.3,All-Rounder
+11th Gen Core i3,Intel UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+12th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+AMD Ryzen7 5825U,AMD Radeon Radeon Graphics,8,512,SSD,35,30,55,80,42.5,45.5,55.25,47.75,44.25,Daily Use
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050,16,1000,SSD,81,70,80,95,78.0,80.1,84.55,80.8,79.6,All-Rounder
+AMD Ryzen 5 5600H,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,72,78,80,80,77.1,76.7,77.4,77.1,76.6,Gaming
+12th Gen Core i5,2 GB NVIDIA GeForce MX550,8,512,SSD,71,46,55,80,58.7,62.1,67.65,62.55,61.65,Daily Use
+12th Gen Core i7,Intel Iris XE Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+11th Gen Core i3,Intel UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+AMD Ryzen 7 6800U,AMD Radeon AMD,16,1000,SSD,70,30,80,95,57.25,66.25,77.25,67.5,63.75,Daily Use
+AMD Ryzen 5 6600U,AMD Radeon AMD,16,512,SSD,64,30,80,80,53.5,61.9,70.2,62.7,59.4,Daily Use
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050-Ti,16,512,SSD,81,73,80,80,77.1,78.6,79.6,78.55,78.25,All-Rounder
+10th Gen Core i7,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,75,58,55,80,65.1,66.5,70.05,66.75,66.65,Gaming
+AMD Ryzen 3 5300U,AMD Radeon,8,256,SSD,45,30,55,65,42.75,46.75,53.0,47.75,45.5,Daily Use
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i3,Intel Integrated Iris Xe,8,512,SSD,54,42,55,80,52.65,55.15,62.15,56.45,54.5,Daily Use
+12th Gen Core i9,4 GB NVIDIA GeForce RTX 3050 Ti,16,1000,SSD,95,73,80,95,82.85,85.75,89.05,85.75,85.4,All-Rounder
+12th Gen Core i9,4 GB NVIDIA GeForce RTX 3050 Ti,16,1000,SSD,95,73,80,95,82.85,85.75,89.05,85.75,85.4,All-Rounder
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,81,70,80,80,75.75,77.85,79.3,77.8,77.35,All-Rounder
+12th Gen Core i5,Intel Iris X Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i7,8 GB NVIDIA GeForce RTX 3070,16,1000,SSD,81,84,80,95,84.3,83.6,85.95,84.3,83.8,All-Rounder
+12th Gen Core i9,4 GB NVIDIA GeForce RTX 3050 Ti,16,1000,SSD,95,73,80,95,82.85,85.75,89.05,85.75,85.4,All-Rounder
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,81,70,80,80,75.75,77.85,79.3,77.8,77.35,All-Rounder
+11th Gen Core i5,Intel Integrated,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+11th Gen Core i7,6 GB Nvidia GeForce RTX 3060,16,1000,SSD,78,78,80,95,80.85,81.05,84.45,81.9,80.95,All-Rounder
+10th Gen Core i5,Intel Integrated UHD Graphics,8,512,SSD,65,25,55,80,47.75,54.75,63.75,55.5,53.25,Daily Use
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+AMD Ryzen 5 5500U,AMD Radeon,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+11th Gen Core i3,Intel UHD,4,256,SSD,51,25,30,65,38.25,41.35,48.05,42.05,41.1,Daily Use
+10th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,65,70,55,80,68.0,66.0,68.25,66.75,66.75,Gaming
+Ryzen 9 5900HX,12 GB AMD Radeon RX 6800M,16,1000,SSD,84,82,80,95,84.15,84.15,86.65,84.7,84.25,All-Rounder
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,81,78,80,95,81.6,82.1,85.35,82.8,82.0,All-Rounder
+10th Gen Core i3,Intel Integrated UHD Graphics,8,256,SSD,48,25,55,65,41.25,46.55,53.4,47.4,45.05,Daily Use
+10th Gen Core i7,Intel Integrated UHD,16,512,SSD,75,25,80,80,54.0,64.5,73.0,64.75,61.75,Daily Use
+11th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,78,78,80,95,80.85,81.05,84.45,81.9,80.95,All-Rounder
+12th Gen Core i7 ,4 GB NVIDIA Geforce RTX 3050 Ti,32,1000,SSD,81,73,95,95,81.6,84.6,88.6,85.3,83.5,All-Rounder
+Athlon 3050U,AMD Radeon Graphics,8,256,SSD,25,30,55,65,37.75,39.75,47.0,41.75,38.5,Daily Use
+11th Gen Core i3,Intel UHD Graphics,8,256,SSD,51,25,55,65,42.0,47.6,54.3,48.3,46.1,Daily Use
+12th Gen Core i7,8 GB NVIDIA GeForce RTX 3070Ti,16,1000,SSD,81,84,80,95,84.3,83.6,85.95,84.3,83.8,All-Rounder
+Ryzen 3 3250U,AMD Radeon AMD Radeon,8,256,SSD,32,30,55,65,39.5,42.2,49.1,43.85,40.95,Daily Use
+Ryzen 3 3250U,AMD Radeon Graphics,8,256,SSD,32,30,55,65,39.5,42.2,49.1,43.85,40.95,Daily Use
+Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+12th Gen Core i7,4 GB NVIDIA GeForce RTX 3050,16,1000,SSD,81,70,80,95,78.0,80.1,84.55,80.8,79.6,All-Rounder
+Ryzen 7 6800H,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,82,70,80,80,76.0,78.2,79.6,78.1,77.7,All-Rounder
+11th Gen Core i3,Intel UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+11th Gen Core i3,Intel Integrated UHD Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+11th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+12th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,71,70,80,80,73.25,74.35,76.3,74.8,73.85,Gaming
+AMD Ryzen 5 5500U,AMD Radeon,16,512,SSD,62,30,80,80,53.0,61.2,69.6,62.1,58.7,Daily Use
+Ryzen 7 4800H,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,72,70,80,80,73.5,74.7,76.6,75.1,74.2,Gaming
+11th Gen Core i7,4 GB NVIDIA Geforce RTX 3050,8,512,SSD,78,70,55,80,71.25,70.55,72.15,70.65,71.3,Gaming
+12th Gen Core i5,4 GB NVIDIA GeForce RTX RTX3050,16,1000,SSD,71,70,80,95,75.5,76.6,81.55,77.8,76.1,Gaming
+11th Gen Core i5,4 GB NVIDIA Geforce RTX 3050,8,512,SSD,68,70,55,80,68.75,67.05,69.15,67.65,67.8,Gaming
+Apple M2,10 Core GPU,8,256,SSD,85,35,55,65,55.0,62.0,65.5,61.0,61.0,Daily Use
+12th Gen Core i5,Intel Integrated Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050 Graphics,16,512,SSD,68,70,80,80,72.5,73.3,75.4,73.9,72.8,Gaming
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,68,70,55,80,68.75,67.05,69.15,67.65,67.8,Gaming
+Ryzen 7 4800H,4 GB NVIDIA GeForce RTX3050,8,1000,SSD,72,70,55,95,72.0,70.7,75.6,71.85,71.45,Gaming
+11th Gen Core i3,Intel Integrated Graphics,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+12th Gen Core i7,4 GB ‎NVIDIA GeForce RTX 3050 Ti,16,1000,SSD,81,73,80,95,79.35,80.85,84.85,81.55,80.5,All-Rounder
+11th Gen Core i7,6 GB NVIDIA GeForce RTX RTX 3060,16,512,SSD,78,78,80,80,78.6,78.8,79.2,78.9,78.7,All-Rounder
+AMD Ryzen 5 5625U,AMD Radeon,8,512,SSD,66,30,55,80,50.25,56.35,64.55,57.05,55.1,Daily Use
+11th Gen Core i9,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,92,78,80,95,84.35,85.95,88.65,86.1,85.85,All-Rounder
+AMD Ryzen 7 5825U,AMD Radeon,16,512,SSD,72,30,80,80,55.5,64.7,72.6,65.1,62.2,Daily Use
+AMD Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+12th Gen Core i5,Intel Iris Xe Graphics,8,256,SSD,71,42,55,65,54.65,58.85,62.0,58.55,58.2,Daily Use
+12th Gen Core i5,Intel Iris Xᵉ Graphics,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+Ryzen 5 5600U,AMD Raedon Graphics,8,512,SSD,64,35,55,80,52.0,56.9,64.45,57.7,55.9,Daily Use
+10th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,65,58,55,80,62.6,63.0,67.05,63.75,63.15,Gaming
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,68,70,55,80,68.75,67.05,69.15,67.65,67.8,Gaming
+12th Gen Core i5,Intel Integrated Intel Iris Xe Graphics,8,512,SSD,71,42,55,80,56.9,61.1,67.25,61.55,60.45,Daily Use
+Ryzen 3 3250U,AMD Radeon AMD Radeon,8,512,SSD,32,30,55,80,41.75,44.45,54.35,46.85,43.2,Daily Use
+11th Gen Core i5,Intel Integrated UHD Graphics,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+11th Gen Core i5,Intel Integrated Iris Xe,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+12th Gen Core i7,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,81,78,80,80,79.35,79.85,80.1,79.8,79.75,All-Rounder
+10th Gen Core i5,4 GB NVIDIA GeForce GTX 1650,8,512,SSD,65,58,55,80,62.6,63.0,67.05,63.75,63.15,Gaming
+Ryzen 5 5500U,AMD Radeon,8,512,SSD,62,30,55,80,49.25,54.95,63.35,55.85,53.7,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,16,512,SSD,68,70,80,80,72.5,73.3,75.4,73.9,72.8,Gaming
+Ryzen 3-3250U,AMD Radeon,8,512,SSD,32,30,55,80,41.75,44.45,54.35,46.85,43.2,Daily Use
+11th Gen Core i5,2 GB NVIDIA GeForce MX450,8,512,SSD,68,44,55,80,57.05,60.55,66.55,61.15,60.0,Daily Use
+11th Gen Core i7,Intel Integrated,16,512,SSD,78,25,80,80,54.75,65.55,73.9,65.65,62.8,Daily Use
+11th Gen Core i5,4 GB NVIDIA GeForce RTX 3050,8,512,SSD,68,70,55,80,68.75,67.05,69.15,67.65,67.8,Gaming
+12th Gen Core i7,Intel Iris XE Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+10th Gen Core i3,Intel Integrated,8,512,SSD,48,25,55,80,43.5,48.8,58.65,50.4,47.3,Daily Use
+Celeron N4500,Intel UHD,4,256,SSD,25,25,30,65,31.75,32.25,40.25,34.25,32.0,Daily Use
+Celeron N4020,Intel Integrated UHD 600,8,256,SSD,22,25,55,65,34.75,37.45,45.6,39.6,35.95,Daily Use
+11th Gen Core i5,Intel Iris Xe Graphics,8,512,SSD,68,42,55,80,56.15,60.05,66.35,60.65,59.4,Daily Use
+11th Gen Core i3,Intel Integrated UHD,8,512,SSD,51,25,55,80,44.25,49.85,59.55,51.3,48.35,Daily Use
+11th Gen Core i5,2 GB NVIDIA GeForce MX450,16,512,SSD,68,44,80,80,60.8,66.8,72.8,67.4,65.0,Editing
+12th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,81,42,80,80,63.15,70.85,76.5,70.8,68.95,Editing
+12th Gen Core i7,Intel Iris Xe,16,1000,SSD,81,42,80,95,65.4,73.1,81.75,73.8,71.2,Editing
+12th Gen Core i5,Intel Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+11th Gen Core i5,Intel Integrated,8,512,SSD,68,25,55,80,48.5,55.8,64.65,56.4,54.3,Daily Use
+12th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,71,42,80,80,60.65,67.35,73.5,67.8,65.45,Editing
+12th Gen Core i9,Intel Iris X Graphics,32,1000,SSD,95,42,95,95,71.15,81.75,89.7,81.75,79.1,Editing
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+11th Gen Core i5,Intel Integrated UHD,8,1000,HDD,68,25,55,70,47.0,54.3,61.15,54.4,52.8,Daily Use
+Ryzen 7 4800H,4 GB NVIDIA GeForce RTX3050,16,512,SSD,72,70,80,80,73.5,74.7,76.6,75.1,74.2,Gaming
+Intel Pentium N5030,Intel Integrated UHD 605,4,256,SSD,27,20,30,65,30.0,31.7,40.35,33.6,31.2,Daily Use
+11th Gen Core i5,Intel Iris Xe Graphics,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+11th Gen Core i3,Missing,8,256,SSD,51,35,55,65,46.5,50.1,55.3,50.8,49.1,Daily Use
+11th Gen Core i7,4 GB Nvidia Quadro T600,16,1000,SSD,78,35,80,95,61.5,70.3,80.15,71.15,68.05,Editing
+10th Gen Core i5,Intel Integrated UHD,8,512,SSD,65,25,55,80,47.75,54.75,63.75,55.5,53.25,Daily Use
+11th Gen Core i7,Intel Iris Xe Graphics,16,1000,SSD,78,42,80,95,64.65,72.05,80.85,72.9,70.15,Editing
+10th Gen Core i3,Intel UHD Graphics,8,512,SSD,48,25,55,80,43.5,48.8,58.65,50.4,47.3,Daily Use
+11th Gen Core i5,Intel Integrated Iris Xe,16,512,SSD,68,42,80,80,59.9,66.3,72.6,66.9,64.4,Editing
+Ryzen 7 5800H,6 GB NVIDIA GeForce RTX 3060,16,512,SSD,78,78,80,80,78.6,78.8,79.2,78.9,78.7,All-Rounder
+Ryzen 7-5800H,4 GB NVIDIA GeForce RTX RTX 3050,16,512,SSD,78,70,80,80,75.0,76.8,78.4,76.9,76.3,All-Rounder
+Ryzen 5 5625U,AMD Radeon AMD,16,512,SSD,66,30,80,80,54.0,62.6,70.8,63.3,60.1,Daily Use
+Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+10th Gen Core i5,Intel UHD Graphics,8,1000,HDD,65,25,55,70,46.25,53.25,60.25,53.5,51.75,Daily Use
+Celeron N4020,Missing,4,256,SSD,22,35,30,65,35.5,33.7,40.35,35.85,33.95,Daily Use
+Ryzen 7 5825U,AMD Radeon AMD,16,512,SSD,72,30,80,80,55.5,64.7,72.6,65.1,62.2,Daily Use
+11th Gen Core i5,2 GB NVIDIA GeForce MX450,8,512,SSD,68,44,55,80,57.05,60.55,66.55,61.15,60.0,Daily Use
+Ryzen 7 6800H,6 GB NVIDIA GeForce RTX 3060,16,1000,SSD,82,78,80,95,81.85,82.45,85.65,83.1,82.35,All-Rounder
+Celeron N4500,Missing,4,128,SSD,25,35,30,50,34.0,32.5,36.0,33.75,32.75,Daily Use
+11th Gen Core i7,Intel Iris Xe Graphics,16,512,SSD,78,42,80,80,62.4,69.8,75.6,69.9,67.9,Editing
+Celeron N4500,Intel UHD Graphics,4,128,SSD,25,25,30,50,29.5,30.0,35.0,31.25,29.75,Daily Use
+Ryzen 7 5700U,AMD Radeon AMD,16,1000,SSD,68,30,80,95,56.75,65.55,76.65,66.9,63.05,Daily Use
+Celeron N4500,Intel Integrated UHD Graphics,4,128,SSD,25,25,30,50,29.5,30.0,35.0,31.25,29.75,Daily Use
+12th Gen Core i9,8 GB NVIDIA GeForce RTX 3070 Ti,32,1000,SSD,95,86,95,95,90.95,92.75,94.1,92.75,92.3,All-Rounder

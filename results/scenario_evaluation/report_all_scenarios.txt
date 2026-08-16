@@ -1,0 +1,94 @@
+HASIL EMPAT SKENARIO PENGUJIAN XGBOOST
+Jumlah dataset: 1014
+Fitur: cpu_score, gpu_score, ram_score, storage_score
+Kelas: All-Rounder, Daily Use, Editing, Gaming
+Random state: 42
+========================================================================
+
+SKENARIO 90:10
+Data latih: 912
+Data uji: 102
+Accuracy: 1.0000 (100.00%)
+Macro precision: 1.0000
+Macro recall: 1.0000
+Macro F1-score: 1.0000
+
+Classification Report:
+              precision    recall  f1-score   support
+
+ All-Rounder       1.00      1.00      1.00        17
+   Daily Use       1.00      1.00      1.00        50
+     Editing       1.00      1.00      1.00        21
+      Gaming       1.00      1.00      1.00        14
+
+    accuracy                           1.00       102
+   macro avg       1.00      1.00      1.00       102
+weighted avg       1.00      1.00      1.00       102
+
+------------------------------------------------------------------------
+
+SKENARIO 80:20
+Data latih: 811
+Data uji: 203
+Accuracy: 1.0000 (100.00%)
+Macro precision: 1.0000
+Macro recall: 1.0000
+Macro F1-score: 1.0000
+
+Classification Report:
+              precision    recall  f1-score   support
+
+ All-Rounder       1.00      1.00      1.00        34
+   Daily Use       1.00      1.00      1.00       100
+     Editing       1.00      1.00      1.00        41
+      Gaming       1.00      1.00      1.00        28
+
+    accuracy                           1.00       203
+   macro avg       1.00      1.00      1.00       203
+weighted avg       1.00      1.00      1.00       203
+
+------------------------------------------------------------------------
+
+SKENARIO 70:30
+Data latih: 709
+Data uji: 305
+Accuracy: 0.9967 (99.67%)
+Macro precision: 0.9960
+Macro recall: 0.9983
+Macro F1-score: 0.9971
+
+Classification Report:
+              precision    recall  f1-score   support
+
+ All-Rounder       1.00      1.00      1.00        51
+   Daily Use       1.00      0.99      1.00       151
+     Editing       0.98      1.00      0.99        61
+      Gaming       1.00      1.00      1.00        42
+
+    accuracy                           1.00       305
+   macro avg       1.00      1.00      1.00       305
+weighted avg       1.00      1.00      1.00       305
+
+------------------------------------------------------------------------
+
+SKENARIO 60:40
+Data latih: 608
+Data uji: 406
+Accuracy: 1.0000 (100.00%)
+Macro precision: 1.0000
+Macro recall: 1.0000
+Macro F1-score: 1.0000
+
+Classification Report:
+              precision    recall  f1-score   support
+
+ All-Rounder       1.00      1.00      1.00        68
+   Daily Use       1.00      1.00      1.00       200
+     Editing       1.00      1.00      1.00        82
+      Gaming       1.00      1.00      1.00        56
+
+    accuracy                           1.00       406
+   macro avg       1.00      1.00      1.00       406
+weighted avg       1.00      1.00      1.00       406
+
+------------------------------------------------------------------------

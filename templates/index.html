@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>SPEC//LAP - Decode Your Laptop Performance</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="page-wrapper">
+
+    <!-- NAVBAR -->
+    <nav class="navbar">
+        <a href="/" class="brand">
+            <img src="{{ url_for('static', filename='img/spec-logo.png') }}" alt="SPEC//LAP Logo" class="brand-icon-large">
+            <img src="{{ url_for('static', filename='img/spec-wordmark.png') }}" alt="SPEC//LAP" class="brand-wordmark-large">
+        </a>
+
+        <div class="nav-links">
+            <a href="#fitur">Fitur</a>
+            <a href="#cara-kerja">Cara Kerja</a>
+            <a href="#rekomendasi">Rekomendasi</a>
+            <a href="#cek">Cek Laptop</a>
+        </div>
+    </nav>
+
+    <!-- HERO -->
+    <section class="hero">
+        <div class="hero-left">
+            <div class="hero-kicker">
+                <span></span>
+                Smart Laptop Performance Decoder
+            </div>
+
+            <h1>
+                Decode Your Laptop
+                <span>Performance</span>
+            </h1>
+
+            <p class="hero-subtitle">
+                Cek spesifikasi laptop dan temukan performa terbaiknya.
+            </p>
+
+            <p class="hero-description">
+                SPEC//LAP menganalisis CPU, RAM, GPU, dan storage untuk menghasilkan skor performa,
+                kategori penggunaan, serta rekomendasi laptop yang sesuai dengan kebutuhan dan budget pengguna.
+            </p>
+
+            <div class="hero-actions">
+                <a href="#cek" class="btn-primary">Mulai Cek Spesifikasi</a>
+                <a href="#rekomendasi" class="btn-secondary">Lihat Rekomendasi</a>
+            </div>
+
+            <div class="hero-stats">
+                <div>
+                    <strong>4</strong>
+                    <small>Komponen Dinilai</small>
+                </div>
+
+                <div>
+                    <strong>4</strong>
+                    <small>Kategori Output</small>
+                </div>
+
+                <div>
+    <strong>ML</strong>
+    <small>Performance Model</small>
+</div>
+            </div>
+        </div>
+
+        <!-- PREMIUM HERO VISUAL -->
+        <div class="hero-right">
+            <div class="premium-visual-card">
+                <div class="visual-header">
+                    <div>
+                        <p>Smart Analysis System</p>
+                        <h3>Specification Decoder</h3>
+                    </div>
+
+                    <img src="{{ url_for('static', filename='img/spec-logo.png') }}" alt="SPEC//LAP Logo">
+                </div>
+
+                <div class="device-frame">
+                    <div class="device-top">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+
+                    <div class="device-screen">
+                        <div class="screen-line large"></div>
+                        <div class="screen-line medium"></div>
+                        <div class="screen-line small"></div>
+                    </div>
+                </div>
+
+                <div class="analysis-flow">
+                    <div class="flow-chip">
+                        <small>Input</small>
+                        <strong>CPU</strong>
+                    </div>
+
+                    <div class="flow-chip">
+                        <small>Input</small>
+                        <strong>GPU</strong>
+                    </div>
+
+                    <div class="flow-chip">
+                        <small>Input</small>
+                        <strong>RAM</strong>
+                    </div>
+
+                    <div class="flow-chip">
+                        <small>Input</small>
+                        <strong>Storage</strong>
+                    </div>
+                </div>
+
+                <div class="engine-core">
+                    <div class="core-icon">
+                        <span></span>
+                    </div>
+
+                    <div>
+                        <small>Classification Process</small>
+                        <strong>Performance Category Engine</strong>
+                    </div>
+                </div>
+
+                <div class="output-grid">
+                    <div>
+                        <small>Output 01</small>
+                        <strong>Component Score</strong>
+                    </div>
+
+                    <div>
+                        <small>Output 02</small>
+                        <strong>Usage Category</strong>
+                    </div>
+
+                    <div>
+                        <small>Output 03</small>
+                        <strong>Result Clarity</strong>
+                    </div>
+
+                    <div>
+                        <small>Output 04</small>
+                        <strong>Laptop Reference</strong>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FITUR -->
+    <section class="section" id="fitur">
+        <div class="section-heading">
+            <p>Fitur Utama</p>
+            <h2>Satu sistem untuk membaca kekuatan laptop secara lebih objektif.</h2>
+        </div>
+
+        <div class="feature-grid">
+            <div class="feature-card">
+                <div class="feature-number">01</div>
+                <h3>Scoring Spesifikasi</h3>
+                <p>
+                    CPU, GPU, RAM, dan storage dikonversi menjadi skor numerik sebagai dasar evaluasi performa.
+                </p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-number">02</div>
+                <h3>Klasifikasi Penggunaan</h3>
+                <p>
+                    Sistem mengklasifikasikan laptop ke kategori Daily Use, Gaming, Editing, atau All-Rounder berdasarkan skor spesifikasi.
+                </p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-number">03</div>
+                <h3>Kejelasan Hasil</h3>
+                <p>
+                    Sistem menampilkan tingkat kejelasan hasil agar pengguna dapat membaca output secara lebih tepat.
+                </p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-number">04</div>
+                <h3>Rekomendasi Laptop</h3>
+                <p>
+                    Sistem menampilkan referensi laptop sejenis berdasarkan kategori hasil evaluasi pengguna.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- CARA KERJA -->
+    <section class="section workflow-section" id="cara-kerja">
+        <div class="section-heading">
+            <p>Cara Kerja</p>
+            <h2>Dari spesifikasi mentah menjadi hasil evaluasi yang mudah dipahami.</h2>
+        </div>
+
+        <div class="workflow-grid">
+            <div class="workflow-card">
+                <span>1</span>
+                <h3>Input Spesifikasi</h3>
+                <p>User memasukkan jenis CPU, GPU, ukuran RAM, kapasitas storage, dan jenis storage.</p>
+            </div>
+
+            <div class="workflow-card">
+                <span>2</span>
+                <h3>Scoring</h3>
+                <p>Sistem menghitung skor CPU, GPU, RAM, dan storage berdasarkan aturan scoring.</p>
+            </div>
+
+            <div class="workflow-card">
+                <span>3</span>
+                <h3>Klasifikasi</h3>
+                <p>Sistem membaca skor spesifikasi dan menentukan kecenderungan kategori penggunaan laptop.</p>
+            </div>
+
+            <div class="workflow-card">
+                <span>4</span>
+                <h3>Output</h3>
+                <p>Sistem menampilkan kategori akhir, skor spesifikasi, penjelasan hasil, dan referensi laptop.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- QUICK RECOMMENDATION SECTION -->
+    <section class="quick-recommendation-section" id="rekomendasi">
+        <div class="quick-recommendation-header">
+            <div>
+                <p>Quick Recommendation</p>
+                <h2>Belum Punya Laptop Incaran?</h2>
+            </div>
+
+            <span>Explore by Category</span>
+        </div>
+
+        <p class="quick-recommendation-text">
+            Pilih kategori kebutuhanmu dan lihat rekomendasi laptop dari katalog marketplace/official store
+            tanpa harus mengisi spesifikasi terlebih dahulu.
+        </p>
+
+        <div class="quick-recommendation-grid">
+            <a href="{{ url_for('recommendation', category_slug='daily-use') }}" class="quick-recommendation-card">
+                <div class="quick-card-icon">DU</div>
+
+                <div>
+                    <h3>Daily Use</h3>
+                    <p>Untuk kuliah, kerja ringan, browsing, dokumen, dan meeting online.</p>
+                </div>
+
+                <span>Lihat Rekomendasi</span>
+            </a>
+
+            <a href="{{ url_for('recommendation', category_slug='gaming') }}" class="quick-recommendation-card">
+                <div class="quick-card-icon">GM</div>
+
+                <div>
+                    <h3>Gaming</h3>
+                    <p>Untuk game, visual grafis, performa GPU, dan hiburan berat.</p>
+                </div>
+
+                <span>Lihat Rekomendasi</span>
+            </a>
+
+            <a href="{{ url_for('recommendation', category_slug='editing') }}" class="quick-recommendation-card">
+                <div class="quick-card-icon">ED</div>
+
+                <div>
+                    <h3>Editing</h3>
+                    <p>Untuk editing ringan-menengah, desain, konten kreatif, dan multitasking.</p>
+                </div>
+
+                <span>Lihat Rekomendasi</span>
+            </a>
+
+            <a href="{{ url_for('recommendation', category_slug='all-rounder') }}" class="quick-recommendation-card">
+                <div class="quick-card-icon">AR</div>
+
+                <div>
+                    <h3>All-Rounder</h3>
+                    <p>Untuk laptop serbaguna: gaming, editing, kerja berat, dan harian.</p>
+                </div>
+
+                <span>Lihat Rekomendasi</span>
+            </a>
+        </div>
+    </section>
+
+    <!-- FORM -->
+    <section class="form-section" id="cek">
+        <div class="checker-panel">
+
+            <div class="checker-intro">
+                <p>SPEC CHECKER</p>
+                <h2>Cek Spesifikasi Laptop</h2>
+                <span>
+                    Masukkan spesifikasi laptop berdasarkan informasi laptop yang ingin anda uji.
+                </span>
+
+                <div class="checker-benefits">
+                    <div>
+                        <strong>01</strong>
+                        <small>Skor performa komponen</small>
+                    </div>
+
+                    <div>
+                        <strong>02</strong>
+                        <small>Kategori penggunaan laptop</small>
+                    </div>
+
+                    <div>
+                        <strong>03</strong>
+                        <small>Kejelasan hasil evaluasi</small>
+                    </div>
+
+                    <div>
+                        <strong>04</strong>
+                        <small>Referensi laptop sesuai kebutuhan</small>
+                    </div>
+                </div>
+            </div>
+
+            <div class="checker-form">
+                {% if error %}
+                    <div class="error-box">{{ error }}</div>
+                {% endif %}
+
+                <form action="/result" method="POST">
+                    <div class="input-info-box">
+                        <span class="info-badge">i</span>
+                        <p>
+                            <strong>Tidak ada di daftar?</strong>
+                            Tetap bisa ketik manual. Sistem akan mengenali komponen atau memberi skor estimasi.
+                        </p>
+                    </div>
+
+                    <div class="form-group">
+                        <label>Jenis CPU</label>
+                        <input list="cpu_list" name="cpu_name" placeholder="Ketik atau pilih CPU, contoh: Intel Core i5-1335U" required>
+
+                        <datalist id="cpu_list">
+                            {% for cpu in cpu_options %}
+                                <option value="{{ cpu }}">
+                            {% endfor %}
+                        </datalist>
+                    </div>
+
+                    <div class="form-group">
+                        <label>Jenis GPU / VGA</label>
+                        <input list="gpu_list" name="gpu_name" placeholder="Ketik atau pilih GPU/VGA, contoh: RTX 4050 / Intel Iris Xe" required>
+
+                        <datalist id="gpu_list">
+                            {% for gpu in gpu_options %}
+                                <option value="{{ gpu }}">
+                            {% endfor %}
+                        </datalist>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label>Ukuran RAM</label>
+                            <select name="ram" required>
+                                {% for ram in ram_options %}
+                                    <option value="{{ ram }}">{{ ram }} GB</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Ukuran Storage</label>
+                            <select name="storage" required>
+                                {% for storage in storage_size_options %}
+                                    <option value="{{ storage }}">{{ storage }} GB</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>Jenis Storage</label>
+                        <select name="storage_type" required>
+                            {% for storage_type in storage_type_options %}
+                                <option value="{{ storage_type }}">{{ storage_type }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <button type="submit" class="submit-btn">Decode Performance</button>
+                </form>
+            </div>
+
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 SPEC//LAP — Decode Your Laptop Performance</p>
+    </footer>
+
+</div>
+
+<script>
+    const revealItems = document.querySelectorAll(
+        ".feature-card, .workflow-card, .form-shell, .checker-panel, .premium-visual-card, .hero-stats div, .quick-recommendation-card, .quick-recommendation-section"
+    );
+
+    revealItems.forEach((item, index) => {
+        item.classList.add("reveal");
+
+        if (index % 3 === 1) {
+            item.classList.add("reveal-delay-1");
+        } else if (index % 3 === 2) {
+            item.classList.add("reveal-delay-2");
+        }
+    });
+
+    const revealObserver = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add("visible");
+                revealObserver.unobserve(entry.target);
+            }
+        });
+    }, {
+        threshold: 0.15
+    });
+
+    revealItems.forEach((item) => {
+        revealObserver.observe(item);
+    });
+</script>
+
+</body>
+</html>
